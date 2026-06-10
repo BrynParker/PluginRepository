@@ -16,7 +16,6 @@ bindProductDetails();
 cycleTerminal();
 initReveals();
 initSmoothCarousel();
-initInterfaceRotator();
 
 if (page === "catalog") {
   bindCatalog();
@@ -87,16 +86,11 @@ function bindProductDetails() {
     if (!button) return;
 
     dialogContent.innerHTML = `
-      <p class="eyebrow">${escapeHtml(button.closest("[data-product-card]")?.dataset.status || "product")}</p>
       <h2>${escapeHtml(button.dataset.name)}</h2>
-      <p>${escapeHtml(button.dataset.description)}</p>
+      <p>${escapeHtml(button.dataset.longDescription || button.dataset.description)}</p>
       <dl>
         <dt>Price</dt>
         <dd>${escapeHtml(button.dataset.price)}</dd>
-        <dt>Found in</dt>
-        <dd>${escapeHtml(button.dataset.found)}</dd>
-        <dt>Notes</dt>
-        <dd>${escapeHtml(button.dataset.notes)}</dd>
       </dl>
     `;
     dialog.showModal();
@@ -124,89 +118,33 @@ function cycleTerminal() {
 }
 
 function initSmoothCarousel() {
-  const rail = document.querySelector(".hero-carousel .auto-rail");
-  if (!rail) return;
+  const rails = [...document.querySelectorAll(".auto-carousel .auto-rail")];
+  if (!rails.length) return;
 
-  let originals = [...rail.children].filter((card) => card.getAttribute("aria-hidden") !== "true");
-  if (!originals.length) originals = [...rail.children];
-  if ([...rail.children].filter((card) => card.getAttribute("aria-hidden") === "true").length < originals.length) {
-    originals.forEach((card) => {
-      const clone = card.cloneNode(true);
-      clone.setAttribute("aria-hidden", "true");
-      rail.appendChild(clone);
-    });
-  }
-
-  function measure() {
-    const firstDuplicate = rail.children[originals.length];
-    const wrapAt = firstDuplicate ? firstDuplicate.offsetLeft : rail.scrollWidth / 2;
-    if (wrapAt > 0) {
-      rail.style.setProperty("--carousel-distance", `${wrapAt}px`);
-      rail.style.setProperty("--carousel-duration", `${Math.max(34, wrapAt / 58)}s`);
+  rails.forEach((rail) => {
+    let originals = [...rail.children].filter((card) => card.getAttribute("aria-hidden") !== "true");
+    if (!originals.length) originals = [...rail.children];
+    if ([...rail.children].filter((card) => card.getAttribute("aria-hidden") === "true").length < originals.length) {
+      originals.forEach((card) => {
+        const clone = card.cloneNode(true);
+        clone.setAttribute("aria-hidden", "true");
+        rail.appendChild(clone);
+      });
     }
-  }
 
-  window.addEventListener("resize", measure);
-  requestAnimationFrame(measure);
-}
+    function measure() {
+      const firstDuplicate = rail.children[originals.length];
+      const wrapAt = firstDuplicate ? firstDuplicate.offsetLeft : rail.scrollWidth / 2;
+      const speed = Number(rail.dataset.speed || 58);
+      if (wrapAt > 0) {
+        rail.style.setProperty("--carousel-distance", `${wrapAt}px`);
+        rail.style.setProperty("--carousel-duration", `${Math.max(34, wrapAt / speed)}s`);
+      }
+    }
 
-function initInterfaceRotator() {
-  const shots = [...document.querySelectorAll(".work-shot")];
-  if (!shots.length) return;
-
-  const rotationIntervalMs = 15000;
-  const interfaces = [
-    ["1.webp", "Inventory", "MafiaRP Main Menu"],
-    ["2.webp", "Character UI", "MafiaRP Character Selection"],
-    ["3.webp", "Admin Tools", "MafiaRP Inventory System"],
-    ["4.webp", "Vendors", "Police CAD System"],
-    ["5.webp", "Crafting", "Police Computer System"],
-    ["6.webp", "Banking", "Police Vehicle CAD"],
-    ["7.webp", "Dialogue", "Pip-Boy UI"],
-    ["8.webp", "Roleplay UI", "SW: Galaxies Splash Page"],
-    ["9.webp", "Dispatch", "CityRP Character Creation"],
-    ["10.webp", "Terminals", "CityRP Inventory Tablet"],
-    ["11.webp", "Faction Tools", "SW: Galaxies Main Menu"],
-    ["12.webp", "Progression", "Leveling and Skills System"],
-    ["13.webp", "Products", "KOTOR-Style UI"],
-    ["14.webp", "Gameplay", "Book Style Helix Menu"],
-    ["15.webp", "Character Tools", "Wild West RP Inventory"],
-    ["16.webp", "Menus", "RDR2 Map System"],
-    ["17.webp", "Notifications", "Star Wars Character Creation"],
-    ["1B938BAD5B0CA3A2.jpg", "Showcase", "CityRP Inventory System"],
-    ["20260218192211_1.jpg", "Worlds", "Wild West RP UI"],
-    ["20260226184602_1.jpg", "Scenes", "Wild West RP Character Select"],
-    ["3EB422B91639BEB6.jpg", "Systems", "Crafting System"],
-    ["51ED806FC4E3F0A6.jpg", "Immersion", "MafiaRP Character Creation"],
-  ];
-  let cursor = shots.length;
-
-  interfaces.forEach(([file]) => {
-    const image = new Image();
-    image.src = `./assets/img/${file}`;
+    window.addEventListener("resize", measure);
+    requestAnimationFrame(measure);
   });
-
-  function rotateInterfaces() {
-    shots.forEach((shot, index) => {
-      const [file, label, title] = interfaces[(cursor + index) % interfaces.length];
-      const img = shot.querySelector("img");
-      const eyebrow = shot.querySelector("figcaption span");
-      const heading = shot.querySelector("figcaption strong");
-      if (!img || !eyebrow || !heading) return;
-
-      shot.classList.add("is-swapping");
-      setTimeout(() => {
-        img.src = `./assets/img/${file}`;
-        img.alt = `${label} interface preview`;
-        eyebrow.textContent = label;
-        heading.textContent = title;
-        shot.classList.remove("is-swapping");
-      }, 320);
-    });
-    cursor = (cursor + shots.length) % interfaces.length;
-  }
-
-  setInterval(rotateInterfaces, rotationIntervalMs);
 }
 
 function initReveals() {
@@ -214,7 +152,7 @@ function initReveals() {
     ".stats-band",
     ".about-panel",
     ".work-head",
-    ".work-shot",
+    ".media-frame",
     ".section-head",
     ".launch-cta",
   ];

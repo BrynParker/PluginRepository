@@ -993,9 +993,65 @@ h3 {
   animation: product-rail 66s linear infinite;
 }
 
+.auto-carousel .auto-rail {
+  --carousel-distance: 50%;
+  --carousel-duration: 54s;
+  animation: hero-product-rail var(--carousel-duration) linear infinite;
+}
+
 .carousel-card {
   flex: 0 0 360px;
   min-height: 330px;
+}
+
+.media-carousel {
+  width: var(--shell);
+  margin: 0 auto 82px;
+  pointer-events: none;
+}
+
+.media-carousel .carousel-window {
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 8%, #000 92%, transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0%, #000 8%, #000 92%, transparent 100%);
+}
+
+.media-carousel .carousel-track {
+  gap: 22px;
+  padding: 18px 0 26px;
+}
+
+.media-frame {
+  position: relative;
+  flex: 0 0 clamp(560px, 46vw, 880px);
+  aspect-ratio: 16 / 9;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.045);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.42);
+}
+
+.media-frame::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: inherit;
+  background:
+    linear-gradient(135deg, rgba(80, 228, 255, 0.1), transparent 34%),
+    linear-gradient(to top, rgba(0, 0, 0, 0.22), transparent 42%);
+  pointer-events: none;
+}
+
+.media-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  filter: saturate(1.08) contrast(1.04);
+  transform: scale(1.01);
 }
 
 .carousel-fade {
@@ -1191,6 +1247,10 @@ dialog::backdrop {
   .hero-carousel .carousel-card {
     flex-basis: 240px;
   }
+
+  .media-frame {
+    flex-basis: min(76vw, 680px);
+  }
 }
 
 @media (max-width: 650px) {
@@ -1257,6 +1317,10 @@ dialog::backdrop {
     flex-basis: 260px;
   }
 
+  .media-frame {
+    flex-basis: 84vw;
+  }
+
   .catalog-title {
     padding: 48px 0 30px;
   }
@@ -1294,13 +1358,8 @@ dialog::backdrop {
     transition-duration: 0.001ms !important;
   }
 
-  .hero-carousel .auto-rail {
+  .auto-carousel .auto-rail {
     animation-duration: var(--carousel-duration) !important;
     animation-iteration-count: infinite !important;
-  }
-
-  .work-shot img,
-  .work-shot figcaption {
-    transition-duration: 320ms !important;
   }
 }

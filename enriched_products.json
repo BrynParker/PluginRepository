@@ -8,6 +8,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / bodies",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Bodies",
     "shortDescription": "Adds equippable body/armor outfit items and character body model support.",
     "longDescription": "Adds equippable body/armor outfit items and character body model support. Includes custom client UI, client/server networking, chat or console commands, custom entities, and item definitions for a complete ready-to-install feature package."
   },
@@ -20,6 +21,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / bounties",
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Bounties",
     "shortDescription": "Adds bounty posting/tracking gameplay for roleplay servers.",
     "longDescription": "Adds bounty posting/tracking gameplay for roleplay servers. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -32,6 +34,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_charselect",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Char Select",
     "shortDescription": "A branded character-selection interface for choosing and loading characters cleanly.",
     "longDescription": "A branded character-selection interface for choosing and loading characters cleanly. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
   },
@@ -44,6 +47,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_context",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Widgets",
     "shortDescription": "Adds a widget/context menu system, including GPS-style widgets.",
     "longDescription": "Adds a widget/context menu system, including GPS-style widgets. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
   },
@@ -56,6 +60,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_darkrp_wrapper",
     "price": "$7.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "DarkRP compatibility",
     "shortDescription": "A compatibility bridge that lets DarkRP-style systems cooperate with the roleplay framework.",
     "longDescription": "A compatibility bridge that lets DarkRP-style systems cooperate with the roleplay framework. Includes custom entities, framework hooks, NPC interactions, and character data for a complete ready-to-install feature package."
   },
@@ -68,6 +73,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_horses",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Horses",
     "shortDescription": "Rideable horses with saddlebag storage.",
     "longDescription": "Rideable horses with saddlebag storage. Includes custom entities for a complete ready-to-install feature package."
   },
@@ -80,6 +86,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_lantern",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Lanterns",
     "shortDescription": "Lanterns with persistent oil storage, burning over time, and refillable with oil bottles.",
     "longDescription": "Lanterns with persistent oil storage, burning over time, and refillable with oil bottles. Includes item definitions, framework hooks, character data, and inventory integration for a complete ready-to-install feature package."
   },
@@ -92,8 +99,9 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_main_load",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
-    "shortDescription": "Adds a custom loading/main menu interface for Frontier Networks.",
-    "longDescription": "Adds a custom loading/main menu interface for Frontier Networks. Includes custom client UI, and framework hooks for a complete ready-to-install feature package."
+    "publicName": "Main Interface",
+    "shortDescription": "A branded loading and main menu interface for a polished first impression.",
+    "longDescription": "A branded loading and main menu interface for a polished first impression. Includes custom client UI, loading-screen presentation, menu styling, and framework hooks for a complete ready-to-install feature package."
   },
   {
     "id": "frontier_mapsys",
@@ -104,6 +112,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_mapsys",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "RDR2 Styled Map",
     "shortDescription": "A western-styled map/minimap layer with in-world navigation support.",
     "longDescription": "A western-styled map/minimap layer with in-world navigation support. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
   },
@@ -116,6 +125,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_npcs",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Helix NPC",
     "shortDescription": "Adds configurable interactable NPC entities and NPC dialogue/action support.",
     "longDescription": "Adds configurable interactable NPC entities and NPC dialogue/action support. Includes custom client UI, client/server networking, persistent data, custom entities, and framework hooks for a complete ready-to-install feature package."
   },
@@ -128,6 +138,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_pks",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Permakill",
     "shortDescription": "Adds staff-controlled permakill/permanent death workflow support.",
     "longDescription": "Adds staff-controlled permakill/permanent death workflow support. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and custom entities for a complete ready-to-install feature package."
   },
@@ -140,6 +151,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_prison",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Prison System",
     "shortDescription": "Arrest, sentencing and custody.",
     "longDescription": "Arrest, sentencing and custody. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -152,6 +164,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_tobacco",
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Tobacco System",
     "shortDescription": "Adds a tobacco growing system.",
     "longDescription": "Adds a tobacco growing system. Includes custom client UI, configurable settings, custom entities, and item definitions for a complete ready-to-install feature package."
   },
@@ -164,6 +177,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / inventory_wearables",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Inventory PAC Items",
     "shortDescription": "Adds support for PAC data on items based on inventory presence, in addition to equip status.",
     "longDescription": "Adds support for PAC data on items based on inventory presence, in addition to equip status. Includes item definitions, and inventory integration for a complete ready-to-install feature package."
   },
@@ -176,6 +190,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / sh_vrpickup",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "VR Item Pickup",
     "shortDescription": "Lets VR players add a grabbed Helix item to their inventory by pressing the pickup trigger.",
     "longDescription": "Lets VR players add a grabbed Helix item to their inventory by pressing the pickup trigger. Includes inventory integration for a complete ready-to-install feature package."
   },
@@ -188,6 +203,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / vr_compat",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Helix VR Integration",
     "shortDescription": "Seamlessly enables Helix menus and HUDs for VRMod players using VR controller keys and actions.",
     "longDescription": "Seamlessly enables Helix menus and HUDs for VRMod players using VR controller keys and actions. Includes custom client UI, chat or console commands, character data, inventory integration, and admin controls for a complete ready-to-install feature package."
   },
@@ -200,6 +216,7 @@
     "foundIn": "Frontier WWRP / wildwestrp / wwrp_hud",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Custom Circular HUD",
     "shortDescription": "A circular health HUD with semicircular stamina (left) and hunger (right) bars and conditional icons for hunger/thirst.",
     "longDescription": "A circular health HUD with semicircular stamina (left) and hunger (right) bars and conditional icons for hunger/thirst. Includes custom client UI, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -212,6 +229,7 @@
     "foundIn": "Wild West RP / wildwestrp / book_f1",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Book-Based F1 Menu Replacement",
     "shortDescription": "A book-inspired F1 menu replacement for rules, help, and player-facing server information.",
     "longDescription": "A book-inspired F1 menu replacement for rules, help, and player-facing server information. Includes custom client UI, chat or console commands, custom entities, and admin controls for a complete ready-to-install feature package."
   },
@@ -224,6 +242,7 @@
     "foundIn": "Wild West RP / wildwestrp / guilds",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Guilds",
     "shortDescription": "Adds a custom player-facing interface/menu layer.",
     "longDescription": "Adds a custom player-facing interface/menu layer. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and persistent data for a complete ready-to-install feature package."
   },
@@ -236,6 +255,7 @@
     "foundIn": "Wild West RP / wildwestrp / mainmenu-loading",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Main Interface",
     "shortDescription": "A cinematic loading and main-menu presentation for a polished first impression.",
     "longDescription": "A cinematic loading and main-menu presentation for a polished first impression. Includes custom client UI for a complete ready-to-install feature package."
   },
@@ -248,6 +268,7 @@
     "foundIn": "Wild West RP / wildwestrp / mainmenu-select-load",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "UI (Menu Principal)",
     "shortDescription": "A custom character selection and loading flow with styled panels and transitions.",
     "longDescription": "A custom character selection and loading flow with styled panels and transitions. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
   },
@@ -260,6 +281,7 @@
     "foundIn": "Wild West RP / wildwestrp / monolith_wepselect",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Hud Elements",
     "shortDescription": "A replacement weapon-selection HUD with a cleaner on-screen picker.",
     "longDescription": "A replacement weapon-selection HUD with a cleaner on-screen picker. Includes custom client UI, character data, and inventory integration for a complete ready-to-install feature package."
   },
@@ -272,6 +294,7 @@
     "foundIn": "Wild West RP / wildwestrp / wwrp-interface",
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Prodigy UI",
     "shortDescription": "A full custom interface suite covering inventory, menus, scoreboard, settings, storage, and notices.",
     "longDescription": "A full custom interface suite covering inventory, menus, scoreboard, settings, storage, and notices. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and persistent data for a complete ready-to-install feature package."
   },
@@ -284,6 +307,7 @@
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / alcohol_production",
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Alcohol Production (Niums)",
     "shortDescription": "A production loop for brewing alcohol with entities, ingredients, and timed processing.",
     "longDescription": "A production loop for brewing alcohol with entities, ingredients, and timed processing. Includes item definitions for a complete ready-to-install feature package."
   },
@@ -296,6 +320,7 @@
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / charlimit",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Role-Based Character Limits",
     "shortDescription": "Role-aware character slot limits that can vary by user group.",
     "longDescription": "Role-aware character slot limits that can vary by user group. Includes configurable settings, framework hooks, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -308,6 +333,7 @@
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / jail_system",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Jail System",
     "shortDescription": "A custody workflow for jailing, sentencing, and releasing players.",
     "longDescription": "A custody workflow for jailing, sentencing, and releasing players. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -320,6 +346,7 @@
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / mafiarp_lockpicking",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Lockpicking",
     "shortDescription": "A lockpicking system built around bobby pins, timing, and access attempts.",
     "longDescription": "A lockpicking system built around bobby pins, timing, and access attempts. Includes custom client UI, custom entities, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
   },
@@ -332,6 +359,7 @@
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / monolith_clothing",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Clothing",
     "shortDescription": "A clothing outfit system for wearable character customization.",
     "longDescription": "A clothing outfit system for wearable character customization. Includes custom client UI, client/server networking, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
   },
@@ -344,6 +372,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / applicationsystem",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Application System",
     "shortDescription": "An in-character application workflow for controlled jobs, factions, or access requests.",
     "longDescription": "An in-character application workflow for controlled jobs, factions, or access requests. Includes custom client UI, chat or console commands, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -356,6 +385,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / charcreation",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Char Creation",
     "shortDescription": "A customized character creation flow with tailored creation screens and rules.",
     "longDescription": "A customized character creation flow with tailored creation screens and rules. Includes custom client UI, client/server networking, configurable settings, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -368,6 +398,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / cmd_factionmenu",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Commander Faction Menu",
     "shortDescription": "A commander-facing faction menu for staff or leadership management tasks.",
     "longDescription": "A commander-facing faction menu for staff or leadership management tasks. Includes custom client UI, client/server networking, chat or console commands, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -380,6 +411,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / detective",
     "price": "$7.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Detective",
     "shortDescription": "Detective roleplay tools for investigations and evidence-driven gameplay.",
     "longDescription": "Detective roleplay tools for investigations and evidence-driven gameplay. Includes custom client UI, client/server networking, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -392,6 +424,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / groupmanager",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Group Manager",
     "shortDescription": "Player-created groups with custom names, roles, and management controls.",
     "longDescription": "Lets players create and manage in-game groups with custom names, roles, membership controls, and leadership tools. Includes client/server networking, persistence, role management, and player-facing group administration for a complete ready-to-install feature package."
   },
@@ -404,6 +437,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / hotwire",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "HotWire",
     "shortDescription": "A vehicle hotwire feature that lets players attempt engine starts without normal access.",
     "longDescription": "A vehicle hotwire feature that lets players attempt engine starts without normal access. Includes custom client UI, client/server networking, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
   },
@@ -416,6 +450,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / inventoryslots",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Inventory Slots",
     "shortDescription": "Additional equipment and inventory slots for wearable or functional items.",
     "longDescription": "Additional equipment and inventory slots for wearable or functional items. Includes custom client UI, client/server networking, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -428,6 +463,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_arccw_integration",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "ArcCW Support + Magazine System",
     "shortDescription": "ArcCW magazine and weapon support for inventory-driven firearm handling.",
     "longDescription": "ArcCW magazine and weapon support for inventory-driven firearm handling. Includes custom client UI, custom entities, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
   },
@@ -440,6 +476,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_clothing",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Clothing System",
     "shortDescription": "A modern clothing-store and outfit interface for buying and applying looks.",
     "longDescription": "A modern clothing-store and outfit interface for buying and applying looks. Includes custom client UI, client/server networking, persistent data, custom entities, and item definitions for a complete ready-to-install feature package."
   },
@@ -452,6 +489,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_cocaine",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Cocaine System",
     "shortDescription": "A cocaine production and sale loop with interactable processing gameplay.",
     "longDescription": "A cocaine production and sale loop with interactable processing gameplay. Includes custom client UI, configurable settings, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -464,6 +502,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_crafting",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Crafting",
     "shortDescription": "A Helix crafting system for recipes, components, and item production.",
     "longDescription": "A Helix crafting system for recipes, components, and item production. Includes custom client UI, client/server networking, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -476,6 +515,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_faction_management",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Faction Management",
     "shortDescription": "Faction administration tools for managing membership, ranks, and leadership workflows.",
     "longDescription": "Faction administration tools for managing membership, ranks, and leadership workflows. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -488,6 +528,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_meth",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Meth System",
     "shortDescription": "A meth production loop with staged processing and interactive entities.",
     "longDescription": "A meth production loop with staged processing and interactive entities. Includes custom client UI, client/server networking, configurable settings, custom entities, and item definitions for a complete ready-to-install feature package."
   },
@@ -500,6 +541,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_oil_system",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Zrush Entity Persistence",
     "shortDescription": "Persistence for oil production entities so production setups survive restarts.",
     "longDescription": "Persistence for oil production entities so production setups survive restarts. Includes persistent data, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
   },
@@ -512,6 +554,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_police_armory",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Police Armory",
     "shortDescription": "Provides a role-based armory with rank/flag restrictions.",
     "longDescription": "Provides a role-based armory with rank/flag restrictions. Includes custom client UI, custom entities, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -524,6 +567,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_police_system",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Police CAD/Interaction",
     "shortDescription": "Police CAD and interaction tools for law-enforcement roleplay workflows.",
     "longDescription": "Police CAD and interaction tools for law-enforcement roleplay workflows. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -536,6 +580,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_property_system",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Properties System",
     "shortDescription": "A property ownership and management system for roleplay locations.",
     "longDescription": "A property ownership and management system for roleplay locations. Includes custom client UI, client/server networking, configurable settings, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -548,6 +593,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_radio",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Telecommunications",
     "shortDescription": "Phones, pagers, payphones, and radio-style communication utilities.",
     "longDescription": "Phones, pagers, payphones, and radio-style communication utilities. Includes item definitions for a complete ready-to-install feature package."
   },
@@ -560,6 +606,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / modern_hud",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "LifeRP HUD",
     "shortDescription": "A custom LifeRP-style HUD for core player status and screen feedback.",
     "longDescription": "A custom LifeRP-style HUD for core player status and screen feedback. Includes custom client UI, chat or console commands, custom entities, character data, and inventory integration for a complete ready-to-install feature package."
   },
@@ -572,6 +619,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / pkactive",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "PK Plugin",
     "shortDescription": "A permakill status helper for tracking and enforcing PK-related states.",
     "longDescription": "A permakill status helper for tracking and enforcing PK-related states. Includes chat or console commands, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -584,6 +632,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / prp_ui",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "User Interface",
     "shortDescription": "A player-facing interface layer for polished menus and everyday interactions.",
     "longDescription": "A player-facing interface layer for polished menus and everyday interactions. Includes custom client UI, and client/server networking for a complete ready-to-install feature package."
   },
@@ -596,6 +645,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / realistic_bank",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Realistic Bank",
     "shortDescription": "A banking system with accounts, transactions, and player-facing finance UI.",
     "longDescription": "A banking system with accounts, transactions, and player-facing finance UI. Includes custom client UI, client/server networking, configurable settings, persistent data, and custom entities for a complete ready-to-install feature package."
   },
@@ -608,6 +658,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / sh_auto_staff_char",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Auto Staff Character",
     "shortDescription": "Automatic staff-character creation and equipment for administrative ranks.",
     "longDescription": "Automatically creates and equips a staff character for admin ranks using SAM. Includes client/server networking, custom entities, framework hooks, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -620,6 +671,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / sh_civic_casino_ownership",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Casino Ownership System",
     "shortDescription": "Casino ownership areas with house-profit routing and ownership logic.",
     "longDescription": "Allows multiple casino areas, where characters can be assigned as owners, with house profits going to the bank of each respective area. Includes custom client UI, client/server networking, chat or console commands, persistent data, and framework hooks for a complete ready-to-install feature package."
   },
@@ -632,6 +684,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / sh_rcon_warrants",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Discord Warrant RCON",
     "shortDescription": "Discord/RCON-assisted warrants that let external approvals mark players wanted.",
     "longDescription": "Allows the server console (via RCON) to mark a player wanted through Discord approval. Includes chat or console commands, character data, and admin controls for a complete ready-to-install feature package."
   },
@@ -644,6 +697,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / smuggler",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Smugglers",
     "shortDescription": "NPC smugglers that sell configured goods through an in-world vendor flow.",
     "longDescription": "NPC smugglers that sell configured goods through an in-world vendor flow. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and persistent data for a complete ready-to-install feature package."
   },
@@ -656,6 +710,7 @@
     "foundIn": "MafiaRP / mafia_roleplay / ui_remove_block_unblock_characters",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Offline Character Remove/Blocks/Unblocks",
     "shortDescription": "Offline character removal and block/unblock tools for staff administration.",
     "longDescription": "Allows staff to remove/block/unblock characters which are or not actively loaded on the server. Includes custom client UI, client/server networking, chat or console commands, framework hooks, and character data for a complete ready-to-install feature package."
   },
@@ -668,6 +723,7 @@
     "foundIn": "gCity / cityrp / sw_tabmenu",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "KOTOR Style Menu",
     "shortDescription": "A KOTOR-inspired tab menu redesign with broader player information panels.",
     "longDescription": "A KOTOR-inspired tab menu redesign with broader player information panels. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and custom entities for a complete ready-to-install feature package."
   },
@@ -680,6 +736,7 @@
     "foundIn": "SW Galaxies / swg / marketplace",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Marketplace",
     "shortDescription": "A Galactic Trade Network marketplace for listing, buying, and selling resources or items.",
     "longDescription": "Provides a Galactic Trade Network marketplace built around a dedicated marketplace entity, configurable item blacklists, listing limits, and resource trading. It includes client/server networking, timers, fonts, and resource handling so players can browse and trade through an in-world economy interface."
   },
@@ -692,6 +749,7 @@
     "foundIn": "SW Galaxies / swg / capturepoint",
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Faction Capture",
     "shortDescription": "Territory capture points with contested progress, ownership, HUD updates, and faction rewards.",
     "longDescription": "Adds capturable territory points with named locations, persistent point data, capture progress, contested-state handling, and nearby HUD networking. The system counts eligible faction players in the capture radius, announces capture attempts, updates ownership, and supports faction reward logic."
   },
@@ -704,6 +762,7 @@
     "foundIn": "SW Galaxies / swg / raid",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
+    "publicName": "Faction Raid System",
     "shortDescription": "Faction raid orchestration with commands, cooldowns, assists, HUD updates, and KDR tracking.",
     "longDescription": "Adds faction-versus-faction raid management with high-command raid initiation, assist commands, raid hiding, status checks, global active-raid state, per-faction cooldowns, and persistent raid statistics. It tracks attacker/defender kills, deaths, assisting players, wins, losses, and client HUD updates."
   }
