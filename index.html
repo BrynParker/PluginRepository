@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Code Vault</title>
+    <meta name="description" content="Premium Garry's Mod roleplay systems, interfaces, and gameplay plugins from Code Vault." />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-page="home">
+    <canvas id="particle-field" aria-hidden="true"></canvas>
+    <div class="scanline" aria-hidden="true"></div>
+    <header class="site-shell hero">
+      <nav class="topbar" aria-label="Code Vault navigation">
+        <a class="brand" href="./index.html" aria-label="Code Vault home"><img src="./assets/plugin-vault-mark.svg" alt="" /><span>Code Vault</span></a>
+        <div class="nav-actions"><a href="./catalog.html">Catalog</a><a href="#about">About</a></div>
+      </nav>
+      <section id="top" class="hero-grid home-hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Garry's Mod systems marketplace</p>
+          <h1><span class="gradient-text">Code Vault</span> turns server code into premium products.</h1>
+          <p class="hero-lede">Browse a focused vault of root gamemode plugins from Wild West RP, MafiaRP, CityRP, and Star Wars Galaxies. Every listing is deduplicated, cleaned up, and priced with one static product price.</p>
+          <div class="hero-actions"><a class="shimmer-button" href="./catalog.html"><span>Open catalog</span></a><a class="ghost-button" href="#showcase">Preview products</a></div>
+        </div>
+        <div class="vault-visual home-vault" aria-label="Animated Code Vault graphic"><div class="border-beam"></div><img src="./assets/plugin-vault-core.svg" alt="" /><div class="terminal-card" aria-hidden="true"><span class="terminal-dot"></span><code id="terminal-line">59 root plugins staged for launch</code></div></div>
+      </section>
+      <div class="hero-product-preview centered-product-preview" id="showcase">
+        <p class="eyebrow">Product preview</p>
+        <section class="hero-carousel carousel-shell auto-carousel wide-carousel" aria-label="Featured product carousel">
+          <div class="carousel-window"><div class="carousel-track auto-rail" data-carousel-track><article class="product-card visible carousel-card" style="--card-color: 80, 228, 255" data-product-card data-name="horses" data-price-min="24.99" data-status="storefront" data-search="horses rideable horses with saddlebag storage. frontier wwrp / wildwestrp / frontier_horses $24.99 wildwestrp">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 11 7 6h10l2 5 2 1v6h-2a2 2 0 0 1-4 0H9a2 2 0 0 1-4 0H3v-6l2-1Zm3-3-1.1 3h10.2L16 8H8Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Horses</h3>
+  <p>Rideable horses with saddlebag storage.</p>
+  <div class="product-meta"><span>wildwestrp</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Horses" data-description="Rideable horses with saddlebag storage." data-price="$24.99" data-found="Frontier WWRP / wildwestrp / frontier_horses" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 189, 85" data-product-card data-name="guilds" data-price-min="24.99" data-status="storefront" data-search="guilds adds a custom player-facing interface/menu layer. wild west rp / wildwestrp / guilds $24.99 wildwestrp">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M4 12a8 8 0 1 1 16 0h-3a5 5 0 1 0-10 0H4Zm7 1h2v7h-2v-7Zm-5 2h3v5H6v-5Zm9 0h3v5h-3v-5Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Guilds</h3>
+  <p>Adds a custom player-facing interface/menu layer.</p>
+  <div class="product-meta"><span>wildwestrp</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Guilds" data-description="Adds a custom player-facing interface/menu layer." data-price="$24.99" data-found="Wild West RP / wildwestrp / guilds" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 115, 240, 179" data-product-card data-name="role-based character limits" data-price-min="24.99" data-status="storefront" data-search="role-based character limits overrides default character slot limits based on user group. frontier wwrp / wildwestrp-helixmain / charlimit $24.99 wildwestrp-helixmain">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Role-Based Character Limits</h3>
+  <p>Overrides default character slot limits based on user group.</p>
+  <div class="product-meta"><span>wildwestrp-helixmain</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Role-Based Character Limits" data-description="Overrides default character slot limits based on user group." data-price="$24.99" data-found="Frontier WWRP / wildwestrp-helixmain / charlimit" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 107, 139" data-product-card data-name="group manager" data-price-min="24.99" data-status="storefront" data-search="group manager allow players to create their own in-game groups with custom name and roles. mafiarp / mafia_roleplay / groupmanager $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Group Manager</h3>
+  <p>Allow players to create their own in-game groups with custom name and roles.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Group Manager" data-description="Allow players to create their own in-game groups with custom name and roles." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / groupmanager" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 169, 121, 255" data-product-card data-name="cocaine system" data-price-min="24.99" data-status="storefront" data-search="cocaine system adds cocaine system. mafiarp / mafia_roleplay / mafiarp_cocaine $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M6 3h5l2 4-5 9H3l5-9-2-4Zm9 3 6 6-9 9-3-3 9-9-3-3Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Cocaine System</h3>
+  <p>Adds cocaine system.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Cocaine System" data-description="Adds cocaine system." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_cocaine" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 247, 209" data-product-card data-name="mafiarp crafting" data-price-min="24.99" data-status="storefront" data-search="mafiarp crafting adds a better crafting solution to helix. mafiarp / mafia_roleplay / mafiarp_crafting $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M6 3h5l2 4-5 9H3l5-9-2-4Zm9 3 6 6-9 9-3-3 9-9-3-3Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>MafiaRP Crafting</h3>
+  <p>Adds a better crafting solution to helix.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="MafiaRP Crafting" data-description="Adds a better crafting solution to helix." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_crafting" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 80, 228, 255" data-product-card data-name="meth system" data-price-min="24.99" data-status="storefront" data-search="meth system adds meth system. mafiarp / mafia_roleplay / mafiarp_meth $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M6 3h5l2 4-5 9H3l5-9-2-4Zm9 3 6 6-9 9-3-3 9-9-3-3Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Meth System</h3>
+  <p>Adds meth system.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Meth System" data-description="Adds meth system." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_meth" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 189, 85" data-product-card data-name="police armory" data-price-min="24.99" data-status="storefront" data-search="police armory provides a role-based armory with rank/flag restrictions. mafiarp / mafia_roleplay / mafiarp_police_armory $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M12 2 5 5v5c0 4.4 2.8 8.4 7 10 4.2-1.6 7-5.6 7-10V5l-7-3Zm0 3 4 1.7V10c0 3-1.5 5.8-4 7.2C9.5 15.8 8 13 8 10V6.7L12 5Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Police Armory</h3>
+  <p>Provides a role-based armory with rank/flag restrictions.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Police Armory" data-description="Provides a role-based armory with rank/flag restrictions." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_police_armory" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 115, 240, 179" data-product-card data-name="police cad/interaction" data-price-min="24.99" data-status="storefront" data-search="police cad/interaction adds police cad/interaction functionality for the gamemode. mafiarp / mafia_roleplay / mafiarp_police_system $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M12 2 5 5v5c0 4.4 2.8 8.4 7 10 4.2-1.6 7-5.6 7-10V5l-7-3Zm0 3 4 1.7V10c0 3-1.5 5.8-4 7.2C9.5 15.8 8 13 8 10V6.7L12 5Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Police CAD/Interaction</h3>
+  <p>Adds police cad/interaction functionality for the gamemode.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Police CAD/Interaction" data-description="Adds police cad/interaction functionality for the gamemode." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_police_system" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 107, 139" data-product-card data-name="properties system" data-price-min="24.99" data-status="storefront" data-search="properties system adds properties system functionality for the gamemode. mafiarp / mafia_roleplay / mafiarp_property_system $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Properties System</h3>
+  <p>Adds properties system functionality for the gamemode.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Properties System" data-description="Adds properties system functionality for the gamemode." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_property_system" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 169, 121, 255" data-product-card data-name="telecommunications" data-price-min="24.99" data-status="storefront" data-search="telecommunications adds phones, pagers, payphones and more. mafiarp / mafia_roleplay / mafiarp_radio $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Telecommunications</h3>
+  <p>Adds phones, pagers, payphones and more.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Telecommunications" data-description="Adds phones, pagers, payphones and more." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_radio" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 247, 209" data-product-card data-name="realistic bank" data-price-min="24.99" data-status="storefront" data-search="realistic bank adds realistic bank functionality for the gamemode. mafiarp / mafia_roleplay / realistic_bank $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M12 2 4 5v6c0 5 3.4 8.4 8 11 4.6-2.6 8-6 8-11V5l-8-3Zm0 4 4 1.5V11c0 2.7-1.5 4.8-4 6.6-2.5-1.8-4-3.9-4-6.6V7.5L12 6Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Realistic Bank</h3>
+  <p>Adds realistic bank functionality for the gamemode.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Realistic Bank" data-description="Adds realistic bank functionality for the gamemode." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / realistic_bank" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 80, 228, 255" data-product-card aria-hidden="true" data-name="horses" data-price-min="24.99" data-status="storefront" data-search="horses rideable horses with saddlebag storage. frontier wwrp / wildwestrp / frontier_horses $24.99 wildwestrp">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 11 7 6h10l2 5 2 1v6h-2a2 2 0 0 1-4 0H9a2 2 0 0 1-4 0H3v-6l2-1Zm3-3-1.1 3h10.2L16 8H8Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Horses</h3>
+  <p>Rideable horses with saddlebag storage.</p>
+  <div class="product-meta"><span>wildwestrp</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Horses" data-description="Rideable horses with saddlebag storage." data-price="$24.99" data-found="Frontier WWRP / wildwestrp / frontier_horses" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 189, 85" data-product-card aria-hidden="true" data-name="guilds" data-price-min="24.99" data-status="storefront" data-search="guilds adds a custom player-facing interface/menu layer. wild west rp / wildwestrp / guilds $24.99 wildwestrp">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M4 12a8 8 0 1 1 16 0h-3a5 5 0 1 0-10 0H4Zm7 1h2v7h-2v-7Zm-5 2h3v5H6v-5Zm9 0h3v5h-3v-5Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Guilds</h3>
+  <p>Adds a custom player-facing interface/menu layer.</p>
+  <div class="product-meta"><span>wildwestrp</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Guilds" data-description="Adds a custom player-facing interface/menu layer." data-price="$24.99" data-found="Wild West RP / wildwestrp / guilds" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 115, 240, 179" data-product-card aria-hidden="true" data-name="role-based character limits" data-price-min="24.99" data-status="storefront" data-search="role-based character limits overrides default character slot limits based on user group. frontier wwrp / wildwestrp-helixmain / charlimit $24.99 wildwestrp-helixmain">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Role-Based Character Limits</h3>
+  <p>Overrides default character slot limits based on user group.</p>
+  <div class="product-meta"><span>wildwestrp-helixmain</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Role-Based Character Limits" data-description="Overrides default character slot limits based on user group." data-price="$24.99" data-found="Frontier WWRP / wildwestrp-helixmain / charlimit" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 107, 139" data-product-card aria-hidden="true" data-name="group manager" data-price-min="24.99" data-status="storefront" data-search="group manager allow players to create their own in-game groups with custom name and roles. mafiarp / mafia_roleplay / groupmanager $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Group Manager</h3>
+  <p>Allow players to create their own in-game groups with custom name and roles.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Group Manager" data-description="Allow players to create their own in-game groups with custom name and roles." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / groupmanager" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 169, 121, 255" data-product-card aria-hidden="true" data-name="cocaine system" data-price-min="24.99" data-status="storefront" data-search="cocaine system adds cocaine system. mafiarp / mafia_roleplay / mafiarp_cocaine $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M6 3h5l2 4-5 9H3l5-9-2-4Zm9 3 6 6-9 9-3-3 9-9-3-3Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Cocaine System</h3>
+  <p>Adds cocaine system.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Cocaine System" data-description="Adds cocaine system." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_cocaine" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 247, 209" data-product-card aria-hidden="true" data-name="mafiarp crafting" data-price-min="24.99" data-status="storefront" data-search="mafiarp crafting adds a better crafting solution to helix. mafiarp / mafia_roleplay / mafiarp_crafting $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M6 3h5l2 4-5 9H3l5-9-2-4Zm9 3 6 6-9 9-3-3 9-9-3-3Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>MafiaRP Crafting</h3>
+  <p>Adds a better crafting solution to helix.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="MafiaRP Crafting" data-description="Adds a better crafting solution to helix." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_crafting" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 80, 228, 255" data-product-card aria-hidden="true" data-name="meth system" data-price-min="24.99" data-status="storefront" data-search="meth system adds meth system. mafiarp / mafia_roleplay / mafiarp_meth $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M6 3h5l2 4-5 9H3l5-9-2-4Zm9 3 6 6-9 9-3-3 9-9-3-3Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Meth System</h3>
+  <p>Adds meth system.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Meth System" data-description="Adds meth system." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_meth" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 189, 85" data-product-card aria-hidden="true" data-name="police armory" data-price-min="24.99" data-status="storefront" data-search="police armory provides a role-based armory with rank/flag restrictions. mafiarp / mafia_roleplay / mafiarp_police_armory $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M12 2 5 5v5c0 4.4 2.8 8.4 7 10 4.2-1.6 7-5.6 7-10V5l-7-3Zm0 3 4 1.7V10c0 3-1.5 5.8-4 7.2C9.5 15.8 8 13 8 10V6.7L12 5Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Police Armory</h3>
+  <p>Provides a role-based armory with rank/flag restrictions.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Police Armory" data-description="Provides a role-based armory with rank/flag restrictions." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_police_armory" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 115, 240, 179" data-product-card aria-hidden="true" data-name="police cad/interaction" data-price-min="24.99" data-status="storefront" data-search="police cad/interaction adds police cad/interaction functionality for the gamemode. mafiarp / mafia_roleplay / mafiarp_police_system $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M12 2 5 5v5c0 4.4 2.8 8.4 7 10 4.2-1.6 7-5.6 7-10V5l-7-3Zm0 3 4 1.7V10c0 3-1.5 5.8-4 7.2C9.5 15.8 8 13 8 10V6.7L12 5Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Police CAD/Interaction</h3>
+  <p>Adds police cad/interaction functionality for the gamemode.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Police CAD/Interaction" data-description="Adds police cad/interaction functionality for the gamemode." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_police_system" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 107, 139" data-product-card aria-hidden="true" data-name="properties system" data-price-min="24.99" data-status="storefront" data-search="properties system adds properties system functionality for the gamemode. mafiarp / mafia_roleplay / mafiarp_property_system $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Properties System</h3>
+  <p>Adds properties system functionality for the gamemode.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Properties System" data-description="Adds properties system functionality for the gamemode." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_property_system" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 169, 121, 255" data-product-card aria-hidden="true" data-name="telecommunications" data-price-min="24.99" data-status="storefront" data-search="telecommunications adds phones, pagers, payphones and more. mafiarp / mafia_roleplay / mafiarp_radio $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M5 4h14v14H5V4Zm3 3v8h8V7H8Zm2 2h4v4h-4V9ZM3 20h18v2H3v-2Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Telecommunications</h3>
+  <p>Adds phones, pagers, payphones and more.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Telecommunications" data-description="Adds phones, pagers, payphones and more." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / mafiarp_radio" data-notes="Root gamemode plugin.">View details</button>
+</article>
+<article class="product-card visible carousel-card" style="--card-color: 255, 247, 209" data-product-card aria-hidden="true" data-name="realistic bank" data-price-min="24.99" data-status="storefront" data-search="realistic bank adds realistic bank functionality for the gamemode. mafiarp / mafia_roleplay / realistic_bank $24.99 mafia_roleplay">
+  <div class="card-topline"><span class="product-icon"><svg viewBox="0 0 24 24" role="img" aria-hidden="true" fill="currentColor"><path d="M12 2 4 5v6c0 5 3.4 8.4 8 11 4.6-2.6 8-6 8-11V5l-8-3Zm0 4 4 1.5V11c0 2.7-1.5 4.8-4 6.6-2.5-1.8-4-3.9-4-6.6V7.5L12 6Z"/></svg></span><span class="product-price">$24.99</span></div>
+  <h3>Realistic Bank</h3>
+  <p>Adds realistic bank functionality for the gamemode.</p>
+  <div class="product-meta"><span>mafia_roleplay</span><span>storefront</span></div>
+  <button class="card-button" type="button" data-product-detail data-name="Realistic Bank" data-description="Adds realistic bank functionality for the gamemode." data-price="$24.99" data-found="MafiaRP / mafia_roleplay / realistic_bank" data-notes="Root gamemode plugin.">View details</button>
+</article></div></div>
+        </section>
+      </div>
+
+    </header>
+    <main>
+      <section class="site-shell section-head work-head" id="work"><p class="eyebrow">Interface work</p><h2>Custom Interfaces</h2></section>
+      <section class="site-shell work-gallery" aria-label="Code Vault work preview gallery">
+        <figure class="work-shot work-shot-large"><img src="./assets/img/8.webp" alt="Custom roleplay interface preview" loading="lazy" /><figcaption><span>Roleplay UI</span><strong>Immersive interface systems</strong></figcaption></figure>
+        <figure class="work-shot work-shot-tall"><img src="./assets/img/14.webp" alt="Gameplay system preview" loading="lazy" /><figcaption><span>Gameplay</span><strong>Server-ready feature work</strong></figcaption></figure>
+        <figure class="work-shot"><img src="./assets/img/16.webp" alt="In-game menu preview" loading="lazy" /><figcaption><span>Menus</span><strong>Custom flows and panels</strong></figcaption></figure>
+        <figure class="work-shot work-shot-wide"><img src="./assets/img/13.webp" alt="Custom product UI preview" loading="lazy" /><figcaption><span>Products</span><strong>Polished systems for sale</strong></figcaption></figure>
+      </section>
+      <section class="site-shell stats-band" aria-label="Code Vault summary"><div class="stat"><span class="stat-value">59</span><span class="stat-label">root plugins listed</span></div><div class="stat"><span class="stat-value">19</span><span class="stat-label">major systems</span></div><div class="stat"><span class="stat-value">5</span><span class="stat-label">gamemode sources</span></div><div class="stat"><span class="stat-value">1</span><span class="stat-label">static price each</span></div></section>
+      <section class="site-shell launch-cta"><div><p class="eyebrow">Ready to browse</p><h2>See every approved root plugin in the catalog.</h2></div><a class="shimmer-button" href="./catalog.html"><span>View full catalog</span></a></section>
+    </main>
+    <dialog id="product-dialog"><button class="dialog-close" type="button" aria-label="Close product details"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.4 5 12 10.6 17.6 5 19 6.4 13.4 12 19 17.6 17.6 19 12 13.4 6.4 19 5 17.6 10.6 12 5 6.4 6.4 5Z"/></svg></button><div id="dialog-content"></div></dialog>
+    <script src="./app.js?v=interfaces-15s" type="module"></script>
+  </body>
+</html>
