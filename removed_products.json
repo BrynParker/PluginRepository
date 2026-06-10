@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "adminstick_ix",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Admin Stick",
+    "description": "An admin stick with basic staff commands.",
+    "foundIn": "Frontier WWRP / wildwestrp / adminstick_ix",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "frontier_crafting",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Better Crafting",
+    "description": "Adds a better crafting solution to helix.",
+    "foundIn": "Frontier WWRP / wildwestrp / frontier_crafting",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "frontier_fishing",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Fishing: Redux",
+    "description": "Adds a complete fishing system, with support for biomes, non-fish catches, and more.",
+    "foundIn": "Frontier WWRP / wildwestrp / frontier_fishing",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "frontier_forestry",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Lumber",
+    "description": "Tree stuff.",
+    "foundIn": "Frontier WWRP / wildwestrp / frontier_forestry",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "frontier_live_npcs",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Live Citizens",
+    "description": "Add NextBot citizens to fill the city with life.",
+    "foundIn": "Frontier WWRP / wildwestrp / frontier_live_npcs",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "frontier_mining",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Mining System",
+    "description": "Mining System.",
+    "foundIn": "Frontier WWRP / wildwestrp / frontier_mining",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "frontier_npc_drop",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "NPC Drops",
+    "description": "NPCs drop items when killed.",
+    "foundIn": "Frontier WWRP / wildwestrp / frontier_npc_drop",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "item_spawnmenu",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "Item List",
+    "description": "Adds a Q-menu tab for all items.",
+    "foundIn": "Frontier WWRP / wildwestrp / item_spawnmenu",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "tfa_support",
+    "gamemode": "wildwestrp",
+    "project": "Frontier WWRP",
+    "name": "TFA Support",
+    "description": "Adds support for TFA attachments and weapons in an immersive way.",
+    "foundIn": "Frontier WWRP / wildwestrp / tfa_support",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "minimap",
+    "gamemode": "wildwestrp",
+    "project": "Wild West RP",
+    "name": "GTA V Minimap",
+    "description": "Adds mini map compatibility created by Steve-O.",
+    "foundIn": "Wild West RP / wildwestrp / minimap",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "needs",
+    "gamemode": "wildwestrp",
+    "project": "Wild West RP",
+    "name": "Needs",
+    "description": "Implements needs.",
+    "foundIn": "Wild West RP / wildwestrp / needs",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "boxnotifylib",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "Minerva Servers Box Notify Library",
+    "description": "Provides a reusable box notification library.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / boxnotifylib",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "eventcontrolleradv",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "EventController - Adv",
+    "description": "Makes events occur randomly on your server. More intricate and complex configuration possible.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / eventcontrolleradv",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "hudlib",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "Minerva Servers Hud Library",
+    "description": "Provides a reusable HUD library.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / hudlib",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "lanternitem",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "Lantern Item and Glow",
+    "description": "Lanterns with persistent oil storage, burning over time, and refillable with oil bottles.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / lanternitem",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "nextbot_citizens",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "NextBot Citizens",
+    "description": "Add NextBot citizens to fill the city with life.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / nextbot_citizens",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "postprocess",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "PostProcess",
+    "description": "Configurable visual post-process effects.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / postprocess",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "smokables",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "Smokable Items",
+    "description": "Adds smokable cigarettes. Requires PAC and PAC Integration to work.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / smokables",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "viewlib",
+    "gamemode": "wildwestrp-helixmain",
+    "project": "Frontier WWRP",
+    "name": "Minerva Servers View Library",
+    "description": "Provides reusable view/camera UI helpers.",
+    "foundIn": "Frontier WWRP / wildwestrp-helixmain / viewlib",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "admin_esp",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Admin ESP",
+    "description": "A simple ESP admin that shows you the most used entities on Helix.",
+    "foundIn": "MafiaRP / mafia_roleplay / admin_esp",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "bagsystem",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Bag System",
+    "description": "A simple bag system.",
+    "foundIn": "MafiaRP / mafia_roleplay / bagsystem",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "bastion",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Bastion",
+    "description": "Some admin extensions for Helix.",
+    "foundIn": "MafiaRP / mafia_roleplay / bastion",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "betterlogs",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Better Logs",
+    "description": "Saves logs in a database and allows permitted staff to look them up.",
+    "foundIn": "MafiaRP / mafia_roleplay / betterlogs",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "blockpropdamage",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "PK Stopper",
+    "description": "Blocks prop-kill style damage.",
+    "foundIn": "MafiaRP / mafia_roleplay / blockpropdamage",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "bodygroupmanager",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Bodygroup Manager",
+    "description": "Allows players and administration to have an easier time customising bodygroups.",
+    "foundIn": "MafiaRP / mafia_roleplay / bodygroupmanager",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "business_misc",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Business Extended",
+    "description": "Adds extended business utilities for roleplay servers.",
+    "foundIn": "MafiaRP / mafia_roleplay / business_misc",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "clearanceaccess",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Clearance Access",
+    "description": "Overrides default door/button settings such as open on touch and makes retinal scanners, readers for it to check the clearance level.",
+    "foundIn": "MafiaRP / mafia_roleplay / clearanceaccess",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "computers",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Computers",
+    "description": "Adds an interactive computer system.",
+    "foundIn": "MafiaRP / mafia_roleplay / computers",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "crosshair",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Crosshair",
+    "description": "Adds a configurable custom crosshair.",
+    "foundIn": "MafiaRP / mafia_roleplay / crosshair",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "dropdelay",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Item Pickup & Drop Delay",
+    "description": "Adds delays between dropping / taking items again.",
+    "foundIn": "MafiaRP / mafia_roleplay / dropdelay",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "fakenames",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Fake Names",
+    "description": "Adds the ability to use the f3 menu to provide a false name to people.",
+    "foundIn": "MafiaRP / mafia_roleplay / fakenames",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "flagsforvendors",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Flags for Vendors",
+    "description": "Makes vendors perform a flag check on buying an item if it has a flag requirement.",
+    "foundIn": "MafiaRP / mafia_roleplay / flagsforvendors",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "hiddenmask",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Mask",
+    "description": "Adds masks to hide your identity.",
+    "foundIn": "MafiaRP / mafia_roleplay / hiddenmask",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "iconeditor",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Better Icon Editor",
+    "description": "More intuitive and user-friendly icon editor ported from Flux framework.",
+    "foundIn": "MafiaRP / mafia_roleplay / iconeditor",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "keys",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Keys System",
+    "description": "Keys required for certain properties.",
+    "foundIn": "MafiaRP / mafia_roleplay / keys",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "liquids",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Liquids Library",
+    "description": "Adds support for tracking liquids inside of containers, and sources to fill them.",
+    "foundIn": "MafiaRP / mafia_roleplay / liquids",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "logging",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Logging",
+    "description": "Adds configurable logging categories/text for staff logs.",
+    "foundIn": "MafiaRP / mafia_roleplay / logging",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_building_sys",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Entity Placing",
+    "description": "Adds the ability to place entities from your inventory on the ground.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_building_sys",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_framework_edits",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Framework edits",
+    "description": "Various miscellaneous framework edits placed into a plugin.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_framework_edits",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_gui",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Advanced Cellar UI",
+    "description": "Adds an advanced animated UI framework for Helix-style roleplay servers.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_gui",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_identification",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "ID Card",
+    "description": "Adds id card functionality for the gamemode.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_identification",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_newitem_view",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Resident Evil Item Pickup View",
+    "description": "Adds a Resident Evil-style item pickup/view presentation.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_newitem_view",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_notifications",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "New Notify",
+    "description": "Adds new notify functionality for the gamemode.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_notifications",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_radial_menu",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Setorian Interaction UI",
+    "description": "Adds a custom player-facing interface/menu layer.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_radial_menu",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "mafiarp_vendors",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Custom Vendor",
+    "description": "Custom Vendor UI for Setorian Community.",
+    "foundIn": "MafiaRP / mafia_roleplay / mafiarp_vendors",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "miscellaneous",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Miscellaneous Scripts",
+    "description": "Adds assorted roleplay and framework utility scripts.",
+    "foundIn": "MafiaRP / mafia_roleplay / miscellaneous",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "modercardealer_compat",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "ModernCarDealer - Character Scoped Vehicles",
+    "description": "Overrides MCD vehicle ownership to use character ID instead of player SteamID64.",
+    "foundIn": "MafiaRP / mafia_roleplay / modercardealer_compat",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "nockich_extended_items",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Extended Items Base",
+    "description": "Adds Place & Use On Ent buttons to Items.",
+    "foundIn": "MafiaRP / mafia_roleplay / nockich_extended_items",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "nokia_phone",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Nokia Phone System",
+    "description": "Adds nokia phone system functionality for the gamemode.",
+    "foundIn": "MafiaRP / mafia_roleplay / nokia_phone",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "ops",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "OPS",
+    "description": "Adds operations/staff utility features.",
+    "foundIn": "MafiaRP / mafia_roleplay / ops",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "performance",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Performance",
+    "description": "Adds several clientside settings to improve performance at will.",
+    "foundIn": "MafiaRP / mafia_roleplay / performance",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "permaremove",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Perma Remove",
+    "description": "Allows staff to permanently remove map entities.",
+    "foundIn": "MafiaRP / mafia_roleplay / permaremove",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "playingcards",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Playing Cards",
+    "description": "Adds item-based playing cards that allow card games like Blackjack and Poker to happen.",
+    "foundIn": "MafiaRP / mafia_roleplay / playingcards",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "prp_casino",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Palomino: Casino",
+    "description": "Adds casino gameplay and management functionality.",
+    "foundIn": "MafiaRP / mafia_roleplay / prp_casino",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "rtl",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Real Time Lighting",
+    "description": "Implements a simple real time lighting system which supports Simple Weather and StormFox2.",
+    "foundIn": "MafiaRP / mafia_roleplay / rtl",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "saveents",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Save Entities",
+    "description": "Saves entities into the database, creating a record per entity.",
+    "foundIn": "MafiaRP / mafia_roleplay / saveents",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "seteroian_weed",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Setorian Weed System",
+    "description": "Join the kites in the clouds ~.",
+    "foundIn": "MafiaRP / mafia_roleplay / seteroian_weed",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "setorian_fishing_system",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Fishing",
+    "description": "Catch and sell fish.",
+    "foundIn": "MafiaRP / mafia_roleplay / setorian_fishing_system",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "setorian_phychodelics",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Setorian Psychedelics Compatibility",
+    "description": "Adds support for Psychedelics Mod.",
+    "foundIn": "MafiaRP / mafia_roleplay / setorian_phychodelics",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_bodymodel_hands",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Viewmodel Body Hands",
+    "description": "Replaces first-person hands with the player/character body model hands.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_bodymodel_hands",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_civic_actions",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Payday Action Bars",
+    "description": "Adds Payday-style action/progress bars.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_civic_actions",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_collisions",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Collision Handler",
+    "description": "Handles collisions between entities.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_collisions",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_keybind_menu",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Keybind Option",
+    "description": "Adds a keybinding option to the settings menu using a dropdown list of all available keys.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_keybind_menu",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_playerflags",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Player Flags",
+    "description": "Adds account/player-level flags separate from character flags.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_playerflags",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_setmodelclass_all",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "MafiaRP Model Class Setter",
+    "description": "Assigns/fixes model classes across MafiaRP character models.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_setmodelclass_all",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_wepselect",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Weapon Select",
+    "description": "Weapon Hotbar Plugin with optional scroll wheel toggle.",
+    "foundIn": "MafiaRP / mafia_roleplay / sh_wepselect",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "spawnmenu_restriction",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Spawnmenu and Context Menu Restrictor",
+    "description": "Restricts spawnmenu/context-menu access by permission.",
+    "foundIn": "MafiaRP / mafia_roleplay / spawnmenu_restriction",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "tempflags",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Temporary Flags",
+    "description": "Adds temporary player/character flags that expire automatically.",
+    "foundIn": "MafiaRP / mafia_roleplay / tempflags",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "thirdperson_keybind",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Third Person Keybind",
+    "description": "Adds a keybind for toggling third person.",
+    "foundIn": "MafiaRP / mafia_roleplay / thirdperson_keybind",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "trunk",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Trunk",
+    "description": "Adds vehicle equipment menus.",
+    "foundIn": "MafiaRP / mafia_roleplay / trunk",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "tv_system",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "TVs",
+    "description": "TV and broadcast system.",
+    "foundIn": "MafiaRP / mafia_roleplay / tv_system",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "vmanippickup",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "ItemPickupAnimation",
+    "description": "Plays a pickup animation when picking up items.",
+    "foundIn": "MafiaRP / mafia_roleplay / vmanippickup",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "voice",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Voice Overlay",
+    "description": "Adds a cleaner voice overlay.",
+    "foundIn": "MafiaRP / mafia_roleplay / voice",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "willardcontainers",
+    "gamemode": "mafia_roleplay",
+    "project": "MafiaRP",
+    "name": "Containers for CivicNetworks",
+    "description": "Provides the ability to store items, customized for Willard Networks.",
+    "foundIn": "MafiaRP / mafia_roleplay / willardcontainers",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "arccwbase",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "ArcCW Base",
+    "description": "Adds compatibility with ArcCW, integrating the weapons and attachments with helix items. Also links ArcCW SWEPs spread, recoil and sway to characters \\.",
+    "foundIn": "gCity / cityrp / arccwbase",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "eventlib",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "Minerva Servers Event Library",
+    "description": "Provides a reusable event-system library for other plugins.",
+    "foundIn": "gCity / cityrp / eventlib",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "eventmanager",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "Event Manager",
+    "description": "Adds event management tools for staff/admins.",
+    "foundIn": "gCity / cityrp / eventmanager",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "race_settings",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "Race Settings",
+    "description": "Adds race settings functionality for the gamemode.",
+    "foundIn": "gCity / cityrp / race_settings",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "scenes",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "Scenes",
+    "description": "Adds scenes functionality for the gamemode.",
+    "foundIn": "gCity / cityrp / scenes",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "setorian_heists",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "Modular Heists",
+    "description": "Modular, declarative heist system for Setorian CityRP.",
+    "foundIn": "gCity / cityrp / setorian_heists",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_setmodelclass",
+    "gamemode": "cityrp",
+    "project": "gCity",
+    "name": "IX Player Models Fix",
+    "description": "Fixes Helix player model class handling.",
+    "foundIn": "gCity / cityrp / sh_setmodelclass",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "q_menu_hide",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Q Menu Hide",
+    "description": "Hides or restricts Q-menu access for the schema.",
+    "foundIn": "SW Galaxies / swg / q_menu_hide",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "starwarscolorcorrection",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Star Wars Color Correction",
+    "description": "Adds Star Wars themed client color correction.",
+    "foundIn": "SW Galaxies / swg / starwarscolorcorrection",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "chgen",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Character Generator",
+    "description": "Adds character generation/customization helpers.",
+    "foundIn": "SW Galaxies / swg / chgen",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "timers",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Timers",
+    "description": "Adds schema timer utilities.",
+    "foundIn": "SW Galaxies / swg / timers",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "albino_search_request",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Search Request",
+    "description": "Adds search/request workflow support.",
+    "foundIn": "SW Galaxies / swg / albino_search_request",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "albino_entertainer",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Entertainment",
+    "description": "Adds entertainer roleplay instruments and menu support.",
+    "foundIn": "SW Galaxies / swg / albino_entertainer",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "implants",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Implant System",
+    "description": "Adds implant items and surgery bed gameplay.",
+    "foundIn": "SW Galaxies / swg / implants",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "deployableents",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Deployable Entities",
+    "description": "Adds deployable entity items.",
+    "foundIn": "SW Galaxies / swg / deployableents",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "itemlist",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Admin Item Spawnmenu",
+    "description": "Adds a spawn-menu tab with all registered items listed by category.",
+    "foundIn": "SW Galaxies / swg / itemlist",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "spawnterminal",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Spawn Terminals",
+    "description": "Adds a spawn terminal interface/system.",
+    "foundIn": "SW Galaxies / swg / spawnterminal",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "starterterminal",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Starter Planet Terminal",
+    "description": "Choose your starter planet.",
+    "foundIn": "SW Galaxies / swg / starterterminal",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "cuffsearch",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Cuff Search",
+    "description": "Allows you to search cuffed people.",
+    "foundIn": "SW Galaxies / swg / cuffsearch",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "setorian_guncrafting",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Gun Crafting",
+    "description": "Adds gun crafting system.",
+    "foundIn": "SW Galaxies / swg / setorian_guncrafting",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "location_system",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Last Location Tracker",
+    "description": "Tracks the last used character and their last known location using region cubes.",
+    "foundIn": "SW Galaxies / swg / location_system",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_SWCensor",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Chat Word Swapper",
+    "description": "Replaces whole words in chat with a random option from a per-word list.",
+    "foundIn": "SW Galaxies / swg / sh_SWCensor",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "goi_factory",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Willard Factory",
+    "description": "Adds various features and machinery used in workshifts.",
+    "foundIn": "SW Galaxies / swg / goi_factory",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_language",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Languages",
+    "description": "Allows the player to speak in a different language.",
+    "foundIn": "SW Galaxies / swg / sh_language",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "supplydrop",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Supply Drop System",
+    "description": "Supply drops.",
+    "foundIn": "SW Galaxies / swg / supplydrop",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "bars",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Bars",
+    "description": "Adds bars functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / bars",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "hungerandthirst",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Hunger and Thirst",
+    "description": "Adds Hunger and Thirst bars/penalties.",
+    "foundIn": "SW Galaxies / swg / hungerandthirst",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "goi_cityfunds",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "City Funds",
+    "description": "Adds city funds functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / goi_cityfunds",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sw_loadmenu",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Project Synapse - User Interface",
+    "description": "Recreates the user interface from Project Synapse and integrates it into Helix.",
+    "foundIn": "SW Galaxies / swg / sw_loadmenu",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_maxcharsrank",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "VIP Character Limits",
+    "description": "make me money - also put a bunch of extra crap in here.",
+    "foundIn": "SW Galaxies / swg / sh_maxcharsrank",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "customitem",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Custom Items",
+    "description": "Enables staff members to create custom items.",
+    "foundIn": "SW Galaxies / swg / customitem",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "local_event",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Better Local Event",
+    "description": "Adds a local event command for events in a specified radius.",
+    "foundIn": "SW Galaxies / swg / local_event",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "perma_class",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Perma Class",
+    "description": "Makes classes permanent.",
+    "foundIn": "SW Galaxies / swg / perma_class",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "admin",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Server Staff",
+    "description": "Adds a non-RP faction for Staff members to utilize.",
+    "foundIn": "SW Galaxies / swg / admin",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "modelfix",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "modelfix",
+    "description": "fixes my borken models.",
+    "foundIn": "SW Galaxies / swg / modelfix",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "safebox",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Safebox",
+    "description": "Personal storage of items for players.",
+    "foundIn": "SW Galaxies / swg / safebox",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "garrysmod",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Garrysmod",
+    "description": "Adds garrysmod functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / garrysmod",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "books",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Books",
+    "description": "The Books that you can read. Only for RP Purpose.",
+    "foundIn": "SW Galaxies / swg / books",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "loot_extractor",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Loot Extractor",
+    "description": "An entity system that extracts chosen items with multiple extractor types.",
+    "foundIn": "SW Galaxies / swg / loot_extractor",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "flashlight",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Flashlight",
+    "description": "Provides a flashlight item to regular flashlight usage.",
+    "foundIn": "SW Galaxies / swg / flashlight",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "monsterfaction",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Bird",
+    "description": "Adds the Bird faction, along with some other bird stuff.",
+    "foundIn": "SW Galaxies / swg / monsterfaction",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "lscscompat",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "LSCS Compatibility",
+    "description": "Adds compatibility with LSCS.",
+    "foundIn": "SW Galaxies / swg / lscscompat",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_classwhitelist",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Class Whitelists",
+    "description": "Allows classes to be obtainable with whitelists.",
+    "foundIn": "SW Galaxies / swg / sh_classwhitelist",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "lvs_modifiers",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "LVS Modifiers",
+    "description": "Remove HUD overlay from LVS ships.",
+    "foundIn": "SW Galaxies / swg / lvs_modifiers",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "radio",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Radio",
+    "description": "You can communicate with other people in distance.",
+    "foundIn": "SW Galaxies / swg / radio",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "leveling",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Leveling",
+    "description": "Adds a leveling system to your schema.",
+    "foundIn": "SW Galaxies / swg / leveling",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "itemcleanup",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Item Cleanup",
+    "description": "Automatically cleans up dropped items.",
+    "foundIn": "SW Galaxies / swg / itemcleanup",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_creditcurrencymodel",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Custom Currency Models",
+    "description": "Changes currency model (and optionally skin) based on amount.",
+    "foundIn": "SW Galaxies / swg / sh_creditcurrencymodel",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "new_persistance",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Persistence",
+    "description": "Define entities to persist through restarts.",
+    "foundIn": "SW Galaxies / swg / new_persistance",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "arccw_support",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "ArcCW compatibility",
+    "description": "Adds arccw compatibility functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / arccw_support",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "helixrpg",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Helix RPG",
+    "description": "RPG and stats system for Helix for a more tangible roleplay experience.",
+    "foundIn": "SW Galaxies / swg / helixrpg",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "sh_cursor_changer",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Custom cursor",
+    "description": "Add some custom cursors for helix framework.",
+    "foundIn": "SW Galaxies / swg / sh_cursor_changer",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "nightvision",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "NightVision",
+    "description": "Adds a simple wearable item that toggles on a night vision mode.",
+    "foundIn": "SW Galaxies / swg / nightvision",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "albino_movementmanager",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Dynamic Runspeed Support",
+    "description": "Stops AFK players from earning wages and kicks when server is full.",
+    "foundIn": "SW Galaxies / swg / albino_movementmanager",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "albino_dynamicchar",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Dynamic Characters",
+    "description": "Players can create special characters using items.",
+    "foundIn": "SW Galaxies / swg / albino_dynamicchar",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "database_test",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Database Testing",
+    "description": "Database Testing.",
+    "foundIn": "SW Galaxies / swg / database_test",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "ambients",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Ambient Music",
+    "description": "Adds background music.",
+    "foundIn": "SW Galaxies / swg / ambients",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "cleanambience",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Ambience Removal",
+    "description": "Removes in-game ambience from the map.",
+    "foundIn": "SW Galaxies / swg / cleanambience",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "itemspawner",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Item Spawner System",
+    "description": "Allows staff to select item spawn points with great configuration.",
+    "foundIn": "SW Galaxies / swg / itemspawner",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "conquest",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Faction Conquest",
+    "description": "Admin-controlled conquest tug-of-war system between factions.",
+    "foundIn": "SW Galaxies / swg / conquest",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "searchnerfer",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Search Nerfer",
+    "description": "removes transferring equipped items.",
+    "foundIn": "SW Galaxies / swg / searchnerfer",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "aryan_vendor",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Aryan Vendors",
+    "description": "Adds NPC vendors that can sell things.",
+    "foundIn": "SW Galaxies / swg / aryan_vendor",
+    "price": "$19.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "lootboxes",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Loot boxes",
+    "description": "Adds loot boxes functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / lootboxes",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "nuttyentitymenu",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Nutscript Entity Menu",
+    "description": "alexgrist cry harder.",
+    "foundIn": "SW Galaxies / swg / nuttyentitymenu",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "droids",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Droid Comp",
+    "description": "Modifies how companion system is interacted with.",
+    "foundIn": "SW Galaxies / swg / droids",
+    "price": "$24.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "ragdollfix",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Ragdoll Fixes",
+    "description": "Adds ragdoll fixes functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / ragdollfix",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "newstorage",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "New Containers",
+    "description": "Adds new containers functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / newstorage",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "checkinv",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Check Inventory",
+    "description": "Simple command to check inventory of target player.",
+    "foundIn": "SW Galaxies / swg / checkinv",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "food",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "FNStackables",
+    "description": "Adds a system for stackable items.",
+    "foundIn": "SW Galaxies / swg / food",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "atmsystem",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Lite Network ATM System",
+    "description": "Allows people to store money inside so they won.",
+    "foundIn": "SW Galaxies / swg / atmsystem",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "albino_helixadmin",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Admin Properties",
+    "description": "Adds more properties to players when right clicking them.",
+    "foundIn": "SW Galaxies / swg / albino_helixadmin",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "miscstuff",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Miscellaneous",
+    "description": "Cool things such as auto-grenade callouts.",
+    "foundIn": "SW Galaxies / swg / miscstuff",
+    "price": "$7.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "writing",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Writing",
+    "description": "Adds purchasable items which players can write/edit.",
+    "foundIn": "SW Galaxies / swg / writing",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "anticrash",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Item\\",
+    "description": "Adds item\\ functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / anticrash",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "residentevilitemview",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Resident Evil Item Pickup",
+    "description": "Adds resident evil item pickup functionality for the gamemode.",
+    "foundIn": "SW Galaxies / swg / residentevilitemview",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "erwinbrewery",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Erwin",
+    "description": "fancy fermentation and stuff.",
+    "foundIn": "SW Galaxies / swg / erwinbrewery",
+    "price": "$9.99",
+    "notes": "Root gamemode plugin."
+  },
+  {
+    "id": "simplisticeventsystem",
+    "gamemode": "swg",
+    "project": "SW Galaxies",
+    "name": "Simplistic Event System",
+    "description": "A Simplistic Event System, mainly used to play sound effects or music tracks.",
+    "foundIn": "SW Galaxies / swg / simplisticeventsystem",
+    "price": "$14.99",
+    "notes": "Root gamemode plugin."
+  }
+]
