@@ -9,8 +9,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Bodies",
-    "shortDescription": "Adds equippable body/armor outfit items and character body model support.",
-    "longDescription": "Adds equippable body/armor outfit items and character body model support. Includes custom client UI, client/server networking, chat or console commands, custom entities, and item definitions for a complete ready-to-install feature package."
+    "shortDescription": "Equippable body and armor items with model support for character outfits.",
+    "longDescription": "Adds a wearable body and armor item system that can change a character model or apply outfit-specific body support from inventory items. The plugin includes item definitions, custom entities, networking, and interface hooks so armor pieces can behave like real equipment instead of static cosmetic props."
   },
   {
     "id": "bounties",
@@ -22,8 +22,8 @@
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Bounties",
-    "shortDescription": "Adds bounty posting/tracking gameplay for roleplay servers.",
-    "longDescription": "Adds bounty posting/tracking gameplay for roleplay servers. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Player bounty posting and tracking tools for roleplay-driven contracts.",
+    "longDescription": "Adds a bounty workflow for creating, tracking, and resolving player contracts. The code includes custom UI, network messages, persistent data, commands, and entity support so bounty boards or related interfaces can turn wanted-player gameplay into a structured server feature."
   },
   {
     "id": "frontier_charselect",
@@ -34,9 +34,9 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_charselect",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "Char Select",
-    "shortDescription": "A branded character-selection interface for choosing and loading characters cleanly.",
-    "longDescription": "A branded character-selection interface for choosing and loading characters cleanly. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
+    "publicName": "Character Select",
+    "shortDescription": "A polished character selection screen for browsing and loading characters.",
+    "longDescription": "Replaces the default character selection flow with a branded interface for viewing, selecting, and loading characters. The plugin is focused on presentation and usability, giving players a cleaner entry point before they enter the server."
   },
   {
     "id": "frontier_context",
@@ -48,8 +48,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Widgets",
-    "shortDescription": "Adds a widget/context menu system, including GPS-style widgets.",
-    "longDescription": "Adds a widget/context menu system, including GPS-style widgets. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
+    "shortDescription": "A widget and context-menu system with GPS-style utility panels.",
+    "longDescription": "Adds a player-facing widget/context menu layer that can expose utility panels such as GPS-style tools. It is built as an interface extension, making server features easier to surface without forcing players through chat commands or scattered menus."
   },
   {
     "id": "frontier_darkrp_wrapper",
@@ -60,9 +60,9 @@
     "foundIn": "Frontier WWRP / wildwestrp / frontier_darkrp_wrapper",
     "price": "$7.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "DarkRP compatibility",
-    "shortDescription": "A compatibility bridge that lets DarkRP-style systems cooperate with the roleplay framework.",
-    "longDescription": "A compatibility bridge that lets DarkRP-style systems cooperate with the roleplay framework. Includes custom entities, framework hooks, NPC interactions, and character data for a complete ready-to-install feature package."
+    "publicName": "DarkRP Compatibility",
+    "shortDescription": "A compatibility bridge for DarkRP-style behavior inside a roleplay framework.",
+    "longDescription": "Provides compatibility glue for DarkRP-style systems so legacy behaviors, entities, or assumptions can work inside the roleplay framework. The code hooks into characters, NPC/entity behavior, and framework events to smooth over integration points that would otherwise require manual edits."
   },
   {
     "id": "frontier_horses",
@@ -74,8 +74,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Horses",
-    "shortDescription": "Rideable horses with saddlebag storage.",
-    "longDescription": "Rideable horses with saddlebag storage. Includes custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Rideable horses with saddlebag storage for frontier-style travel.",
+    "longDescription": "Adds rideable horse entities with storage-oriented saddlebag support. The plugin provides custom entity behavior so horses can function as both transportation and a lightweight inventory companion for long-form roleplay."
   },
   {
     "id": "frontier_lantern",
@@ -87,8 +87,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Lanterns",
-    "shortDescription": "Lanterns with persistent oil storage, burning over time, and refillable with oil bottles.",
-    "longDescription": "Lanterns with persistent oil storage, burning over time, and refillable with oil bottles. Includes item definitions, framework hooks, character data, and inventory integration for a complete ready-to-install feature package."
+    "shortDescription": "Persistent lantern items with oil usage, burn time, and refill support.",
+    "longDescription": "Adds lantern items that track oil over time, burn down while active, and can be refilled with oil bottles. It integrates with inventory and character data so lanterns behave like persistent tools rather than disposable props."
   },
   {
     "id": "frontier_main_load",
@@ -100,8 +100,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Main Interface",
-    "shortDescription": "A branded loading and main menu interface for a polished first impression.",
-    "longDescription": "A branded loading and main menu interface for a polished first impression. Includes custom client UI, loading-screen presentation, menu styling, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "A branded loading and main-menu interface for a polished first impression.",
+    "longDescription": "Reworks the loading and main-menu presentation with custom UI and framework hooks. It is designed to make the first player interaction feel intentional, with branded screens and a smoother transition into character selection or gameplay."
   },
   {
     "id": "frontier_mapsys",
@@ -113,8 +113,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "RDR2 Styled Map",
-    "shortDescription": "A western-styled map/minimap layer with in-world navigation support.",
-    "longDescription": "A western-styled map/minimap layer with in-world navigation support. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
+    "shortDescription": "A western-styled map and minimap layer for in-world navigation.",
+    "longDescription": "Adds map/minimap compatibility with a Red Dead-inspired presentation. The plugin focuses on navigation and visual polish, giving players a more thematic way to orient themselves while keeping the interface tied to roleplay immersion."
   },
   {
     "id": "frontier_npcs",
@@ -126,8 +126,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Helix NPC",
-    "shortDescription": "Adds configurable interactable NPC entities and NPC dialogue/action support.",
-    "longDescription": "Adds configurable interactable NPC entities and NPC dialogue/action support. Includes custom client UI, client/server networking, persistent data, custom entities, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "Configurable interactable NPC entities with dialogue and action support.",
+    "longDescription": "Adds configurable NPC entities that can drive dialogue, actions, or server interactions. The code includes custom entities, client/server networking, persistent data, and UI support so staff can build reusable NPC-driven interaction points."
   },
   {
     "id": "frontier_pks",
@@ -139,8 +139,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Permakill",
-    "shortDescription": "Adds staff-controlled permakill/permanent death workflow support.",
-    "longDescription": "Adds staff-controlled permakill/permanent death workflow support. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Staff-controlled permanent death workflows with configurable support tools.",
+    "longDescription": "Adds tools for managing permanent-death workflows, including commands, configurable settings, networking, and interface support. It gives staff a structured way to handle high-impact character consequences instead of relying on manual tracking."
   },
   {
     "id": "frontier_prison",
@@ -152,8 +152,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Prison System",
-    "shortDescription": "Arrest, sentencing and custody.",
-    "longDescription": "Arrest, sentencing and custody. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Arrest, sentencing, custody, and release workflows for law roleplay.",
+    "longDescription": "Adds a full custody workflow around arrests, jailing, sentencing, and releases. The plugin includes custom UI, network messages, persistent data, commands, and entities so police and staff can manage imprisonment as an actual system."
   },
   {
     "id": "frontier_tobacco",
@@ -165,8 +165,8 @@
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Tobacco System",
-    "shortDescription": "Adds a tobacco growing system.",
-    "longDescription": "Adds a tobacco growing system. Includes custom client UI, configurable settings, custom entities, and item definitions for a complete ready-to-install feature package."
+    "shortDescription": "A tobacco growing and production loop with entities and item support.",
+    "longDescription": "Adds tobacco production gameplay with custom entities, item definitions, configurable values, and client-facing support. It gives players a resource loop built around planting, processing, or handling tobacco as an economy item."
   },
   {
     "id": "inventory_wearables",
@@ -178,8 +178,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Inventory PAC Items",
-    "shortDescription": "Adds support for PAC data on items based on inventory presence, in addition to equip status.",
-    "longDescription": "Adds support for PAC data on items based on inventory presence, in addition to equip status. Includes item definitions, and inventory integration for a complete ready-to-install feature package."
+    "shortDescription": "PAC outfit data applied from inventory presence and equipment state.",
+    "longDescription": "Extends inventory items so PAC data can be applied based on whether items are owned, present, or equipped. This lets wearable visuals and item-driven appearance changes follow the character inventory more reliably."
   },
   {
     "id": "sh_vrpickup",
@@ -191,8 +191,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "VR Item Pickup",
-    "shortDescription": "Lets VR players add a grabbed Helix item to their inventory by pressing the pickup trigger.",
-    "longDescription": "Lets VR players add a grabbed Helix item to their inventory by pressing the pickup trigger. Includes inventory integration for a complete ready-to-install feature package."
+    "shortDescription": "VRMod item pickup support for grabbing items into inventory.",
+    "longDescription": "Lets VR players pick up compatible inventory items using controller input. The plugin bridges VRMod interaction with inventory behavior, allowing grabbed Helix items to be added through a natural VR pickup action."
   },
   {
     "id": "vr_compat",
@@ -204,8 +204,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Helix VR Integration",
-    "shortDescription": "Seamlessly enables Helix menus and HUDs for VRMod players using VR controller keys and actions.",
-    "longDescription": "Seamlessly enables Helix menus and HUDs for VRMod players using VR controller keys and actions. Includes custom client UI, chat or console commands, character data, inventory integration, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "VR controller support for menus, HUDs, and inventory interactions.",
+    "longDescription": "Adds VRMod compatibility for framework menus, HUD behavior, controller keys, and player actions. It includes commands, interface integration, and character/inventory support so VR players can interact with core server systems without breaking immersion."
   },
   {
     "id": "wwrp_hud",
@@ -217,8 +217,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Custom Circular HUD",
-    "shortDescription": "A circular health HUD with semicircular stamina (left) and hunger (right) bars and conditional icons for hunger/thirst.",
-    "longDescription": "A circular health HUD with semicircular stamina (left) and hunger (right) bars and conditional icons for hunger/thirst. Includes custom client UI, character data, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "A circular player HUD with health, stamina, hunger, and thirst indicators.",
+    "longDescription": "Adds a custom circular HUD with a central health display, semicircular stamina and hunger bars, and conditional status icons for needs such as hunger and thirst. The UI is built to keep core status readable while preserving screen space."
   },
   {
     "id": "book_f1",
@@ -230,8 +230,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Book-Based F1 Menu Replacement",
-    "shortDescription": "A book-inspired F1 menu replacement for rules, help, and player-facing server information.",
-    "longDescription": "A book-inspired F1 menu replacement for rules, help, and player-facing server information. Includes custom client UI, chat or console commands, custom entities, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "A book-inspired F1 menu for rules, help, and server information.",
+    "longDescription": "Replaces the standard F1 menu with a stylized book interface. It provides a more thematic home for rules, help pages, and player-facing server information, with UI and command hooks for opening the experience cleanly."
   },
   {
     "id": "guilds",
@@ -243,8 +243,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Guilds",
-    "shortDescription": "Adds a custom player-facing interface/menu layer.",
-    "longDescription": "Adds a custom player-facing interface/menu layer. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and persistent data for a complete ready-to-install feature package."
+    "shortDescription": "Player-created guilds with membership, roles, and management menus.",
+    "longDescription": "Adds a guild/group system where players can create organizations, manage members, assign roles, and interact through a dedicated interface. The plugin includes networking, persistence, configuration, commands, and custom UI for a complete group-management feature."
   },
   {
     "id": "mainmenu-loading",
@@ -256,8 +256,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Main Interface",
-    "shortDescription": "A cinematic loading and main-menu presentation for a polished first impression.",
-    "longDescription": "A cinematic loading and main-menu presentation for a polished first impression. Includes custom client UI for a complete ready-to-install feature package."
+    "shortDescription": "A cinematic loading and main-menu presentation for server entry.",
+    "longDescription": "Adds a custom loading and main-menu layer designed to improve the first impression before players enter the world. The feature focuses on presentation, branding, and smoother navigation into the play session."
   },
   {
     "id": "mainmenu-select-load",
@@ -268,9 +268,9 @@
     "foundIn": "Wild West RP / wildwestrp / mainmenu-select-load",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "UI (Menu Principal)",
-    "shortDescription": "A custom character selection and loading flow with styled panels and transitions.",
-    "longDescription": "A custom character selection and loading flow with styled panels and transitions. The product is packaged as a focused, ready-to-install system with its price and product copy prepared for storefront use."
+    "publicName": "Character Select & Load UI",
+    "shortDescription": "A custom character selection and loading flow with styled panels.",
+    "longDescription": "Reworks character selection and loading into a more polished interface. It gives players a clearer path from menu to character while supporting themed transitions and server-specific presentation."
   },
   {
     "id": "monolith_wepselect",
@@ -281,9 +281,9 @@
     "foundIn": "Wild West RP / wildwestrp / monolith_wepselect",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "Hud Elements",
-    "shortDescription": "A replacement weapon-selection HUD with a cleaner on-screen picker.",
-    "longDescription": "A replacement weapon-selection HUD with a cleaner on-screen picker. Includes custom client UI, character data, and inventory integration for a complete ready-to-install feature package."
+    "publicName": "Weapon Select HUD",
+    "shortDescription": "A cleaner replacement weapon-selection HUD.",
+    "longDescription": "Replaces the default weapon selector with a custom HUD element. It improves readability and presentation when swapping weapons, making the selection process feel more aligned with a polished roleplay UI."
   },
   {
     "id": "wwrp-interface",
@@ -295,8 +295,8 @@
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Prodigy UI",
-    "shortDescription": "A full custom interface suite covering inventory, menus, scoreboard, settings, storage, and notices.",
-    "longDescription": "A full custom interface suite covering inventory, menus, scoreboard, settings, storage, and notices. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and persistent data for a complete ready-to-install feature package."
+    "shortDescription": "A full interface suite for inventory, menus, scoreboard, storage, and notices.",
+    "longDescription": "Adds a broad custom UI layer covering major player interactions such as inventory, scoreboard, storage, business menus, settings, notices, and other daily-use panels. The plugin includes extensive client UI, networking, configuration, persistence, and commands, making it closer to a full interface framework than a single menu."
   },
   {
     "id": "alcohol_production",
@@ -307,9 +307,9 @@
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / alcohol_production",
     "price": "$19.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "Alcohol Production (Niums)",
-    "shortDescription": "A production loop for brewing alcohol with entities, ingredients, and timed processing.",
-    "longDescription": "A production loop for brewing alcohol with entities, ingredients, and timed processing. Includes item definitions for a complete ready-to-install feature package."
+    "publicName": "Alcohol Production",
+    "shortDescription": "A brewing production loop with ingredients, entities, and timed processing.",
+    "longDescription": "Adds alcohol brewing gameplay through production entities and ingredient/item handling. Players can use the system as an economy loop, turning materials and time into finished products suitable for roleplay trade or consumption systems."
   },
   {
     "id": "charlimit",
@@ -321,8 +321,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Role-Based Character Limits",
-    "shortDescription": "Role-aware character slot limits that can vary by user group.",
-    "longDescription": "Role-aware character slot limits that can vary by user group. Includes configurable settings, framework hooks, character data, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "Character slot limits that change by user group or role.",
+    "longDescription": "Overrides default character slot limits based on player group or role configuration. It gives server owners flexible control over how many characters different ranks can create without hardcoding limits in core framework files."
   },
   {
     "id": "jail_system",
@@ -334,8 +334,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Jail System",
-    "shortDescription": "A custody workflow for jailing, sentencing, and releasing players.",
-    "longDescription": "A custody workflow for jailing, sentencing, and releasing players. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Custody, jail, and release tools for structured law enforcement roleplay.",
+    "longDescription": "Adds a jailing workflow with UI, commands, networked behavior, persistence, and supporting entities. It is built to formalize arrest and custody gameplay so punishments, jail times, and releases can be handled consistently."
   },
   {
     "id": "mafiarp_lockpicking",
@@ -347,8 +347,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Lockpicking",
-    "shortDescription": "A lockpicking system built around bobby pins, timing, and access attempts.",
-    "longDescription": "A lockpicking system built around bobby pins, timing, and access attempts. Includes custom client UI, custom entities, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
+    "shortDescription": "Bobby-pin lockpicking with interaction timing and item support.",
+    "longDescription": "Adds lockpicking gameplay built around bobby pins and interactive access attempts. The plugin includes custom UI, item definitions, entity hooks, and character integration so locked interactions can become a skill-based roleplay mechanic."
   },
   {
     "id": "monolith_clothing",
@@ -360,8 +360,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Clothing",
-    "shortDescription": "A clothing outfit system for wearable character customization.",
-    "longDescription": "A clothing outfit system for wearable character customization. Includes custom client UI, client/server networking, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
+    "shortDescription": "Wearable clothing and outfit customization support.",
+    "longDescription": "Adds clothing items and outfit behavior that can be applied to characters through inventory-style interactions. It includes client/server UI, item definitions, hooks, and character integration for persistent wardrobe customization."
   },
   {
     "id": "applicationsystem",
@@ -373,8 +373,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Application System",
-    "shortDescription": "An in-character application workflow for controlled jobs, factions, or access requests.",
-    "longDescription": "An in-character application workflow for controlled jobs, factions, or access requests. Includes custom client UI, chat or console commands, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "In-character applications for controlled jobs, factions, or access requests.",
+    "longDescription": "Adds an in-character application system for handling requests such as jobs, faction entry, or permissions. It includes custom UI, commands, item/entity support, and framework hooks so applications can become part of the roleplay workflow."
   },
   {
     "id": "charcreation",
@@ -385,9 +385,9 @@
     "foundIn": "MafiaRP / mafia_roleplay / charcreation",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "Char Creation",
-    "shortDescription": "A customized character creation flow with tailored creation screens and rules.",
-    "longDescription": "A customized character creation flow with tailored creation screens and rules. Includes custom client UI, client/server networking, configurable settings, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "publicName": "Character Creation",
+    "shortDescription": "A customized character creation flow with tailored screens and rules.",
+    "longDescription": "Reworks character creation with custom interface behavior, networking, configuration, item hooks, and framework integration. It is useful when the default creation process needs to match a specific server style or enforce custom character setup rules."
   },
   {
     "id": "cmd_factionmenu",
@@ -399,8 +399,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Commander Faction Menu",
-    "shortDescription": "A commander-facing faction menu for staff or leadership management tasks.",
-    "longDescription": "A commander-facing faction menu for staff or leadership management tasks. Includes custom client UI, client/server networking, chat or console commands, character data, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "Leadership-facing faction management tools.",
+    "longDescription": "Adds a commander or leadership menu for managing faction-related tasks. The plugin includes custom UI, commands, networking, character data, and admin-style checks to help faction leaders or staff manage membership and organization workflows."
   },
   {
     "id": "detective",
@@ -412,8 +412,8 @@
     "price": "$7.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Detective",
-    "shortDescription": "Detective roleplay tools for investigations and evidence-driven gameplay.",
-    "longDescription": "Detective roleplay tools for investigations and evidence-driven gameplay. Includes custom client UI, client/server networking, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "Investigation tools and evidence-focused roleplay systems.",
+    "longDescription": "Adds detective-oriented systems for investigation roleplay, with custom UI, networked interactions, entities, item definitions, and framework hooks. It gives investigative characters more structured tools than simple chat-based roleplay."
   },
   {
     "id": "groupmanager",
@@ -425,8 +425,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Group Manager",
-    "shortDescription": "Player-created groups with custom names, roles, and management controls.",
-    "longDescription": "Lets players create and manage in-game groups with custom names, roles, membership controls, and leadership tools. Includes client/server networking, persistence, role management, and player-facing group administration for a complete ready-to-install feature package."
+    "shortDescription": "Player-created groups with names, roles, and membership controls.",
+    "longDescription": "Lets players create and manage in-game groups with custom names, roles, membership controls, and leadership tools. The system supports player-facing administration and persistent organization gameplay, making it useful for crews, businesses, gangs, or other player-led groups."
   },
   {
     "id": "hotwire",
@@ -437,9 +437,9 @@
     "foundIn": "MafiaRP / mafia_roleplay / hotwire",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "HotWire",
-    "shortDescription": "A vehicle hotwire feature that lets players attempt engine starts without normal access.",
-    "longDescription": "A vehicle hotwire feature that lets players attempt engine starts without normal access. Includes custom client UI, client/server networking, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
+    "publicName": "Hotwire",
+    "shortDescription": "Vehicle hotwiring using a hotwire item and engine-start attempts.",
+    "longDescription": "Adds vehicle hotwiring gameplay so players can attempt to start engines without normal access. The plugin uses UI, networking, item definitions, framework hooks, and character checks to turn vehicle theft or emergency access into an interactive mechanic."
   },
   {
     "id": "inventoryslots",
@@ -451,8 +451,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Inventory Slots",
-    "shortDescription": "Additional equipment and inventory slots for wearable or functional items.",
-    "longDescription": "Additional equipment and inventory slots for wearable or functional items. Includes custom client UI, client/server networking, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "Additional equipment slots for wearable or functional inventory items.",
+    "longDescription": "Adds extra inventory/equipment slot behavior for items that need to be equipped, worn, or tracked separately from normal storage. It includes UI and networking support, item definitions, custom entities, and framework hooks."
   },
   {
     "id": "mafiarp_arccw_integration",
@@ -463,9 +463,9 @@
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_arccw_integration",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "ArcCW Support + Magazine System",
-    "shortDescription": "ArcCW magazine and weapon support for inventory-driven firearm handling.",
-    "longDescription": "ArcCW magazine and weapon support for inventory-driven firearm handling. Includes custom client UI, custom entities, item definitions, framework hooks, and character data for a complete ready-to-install feature package."
+    "publicName": "ArcCW Magazine System",
+    "shortDescription": "ArcCW weapon and magazine integration for inventory-driven gunplay.",
+    "longDescription": "Adds ArcCW support with magazine-oriented inventory behavior. It connects weapon handling to item definitions, character data, and framework hooks so ammunition and magazines can be managed more realistically."
   },
   {
     "id": "mafiarp_clothing",
@@ -477,8 +477,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Clothing System",
-    "shortDescription": "A modern clothing-store and outfit interface for buying and applying looks.",
-    "longDescription": "A modern clothing-store and outfit interface for buying and applying looks. Includes custom client UI, client/server networking, persistent data, custom entities, and item definitions for a complete ready-to-install feature package."
+    "shortDescription": "A modern clothing-store UI for buying and applying outfits.",
+    "longDescription": "Adds a full clothing store and outfit management workflow with custom UI, networking, persistence, entities, and item definitions. Players can browse and apply clothing through a polished interface rather than relying on manual model changes."
   },
   {
     "id": "mafiarp_cocaine",
@@ -490,8 +490,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Cocaine System",
-    "shortDescription": "A cocaine production and sale loop with interactable processing gameplay.",
-    "longDescription": "A cocaine production and sale loop with interactable processing gameplay. Includes custom client UI, configurable settings, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "A cocaine production and sale loop with interactable processing.",
+    "longDescription": "Adds cocaine production gameplay through staged entities, item definitions, configuration, and interface support. It is built as an economy loop where players interact with processing steps and outputs instead of receiving a single static item."
   },
   {
     "id": "mafiarp_crafting",
@@ -503,8 +503,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Crafting",
-    "shortDescription": "A Helix crafting system for recipes, components, and item production.",
-    "longDescription": "A Helix crafting system for recipes, components, and item production. Includes custom client UI, client/server networking, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "Recipe-based crafting with components, outputs, and item production.",
+    "longDescription": "Adds a crafting system centered on recipes, required components, and produced items. The plugin includes custom UI, networking, custom entities, item definitions, and framework hooks so crafting can be presented as a structured player workflow."
   },
   {
     "id": "mafiarp_faction_management",
@@ -516,8 +516,8 @@
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Faction Management",
-    "shortDescription": "Faction administration tools for managing membership, ranks, and leadership workflows.",
-    "longDescription": "Faction administration tools for managing membership, ranks, and leadership workflows. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Faction administration tools for ranks, members, and leadership workflows.",
+    "longDescription": "Adds faction management features for staff or authorized leaders, including UI, networking, commands, persistent data, and entity support. It helps manage membership, ranks, and faction organization from inside the game."
   },
   {
     "id": "mafiarp_meth",
@@ -530,7 +530,7 @@
     "notes": "Root gamemode plugin.",
     "publicName": "Meth System",
     "shortDescription": "A meth production loop with staged processing and interactive entities.",
-    "longDescription": "A meth production loop with staged processing and interactive entities. Includes custom client UI, client/server networking, configurable settings, custom entities, and item definitions for a complete ready-to-install feature package."
+    "longDescription": "Adds meth production gameplay with custom entities, item definitions, configuration, networking, and interface support. It creates a multi-step economy activity where players interact with production equipment and outputs."
   },
   {
     "id": "mafiarp_oil_system",
@@ -542,8 +542,8 @@
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Zrush Entity Persistence",
-    "shortDescription": "Persistence for oil production entities so production setups survive restarts.",
-    "longDescription": "Persistence for oil production entities so production setups survive restarts. Includes persistent data, custom entities, item definitions, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "Persistence for oil production entities across restarts.",
+    "longDescription": "Saves and restores oil production entities so production setups survive server restarts. It hooks into entity and persistence behavior to keep economy infrastructure from disappearing unexpectedly."
   },
   {
     "id": "mafiarp_police_armory",
@@ -555,8 +555,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Police Armory",
-    "shortDescription": "Provides a role-based armory with rank/flag restrictions.",
-    "longDescription": "Provides a role-based armory with rank/flag restrictions. Includes custom client UI, custom entities, character data, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "A role-restricted armory with rank and flag checks.",
+    "longDescription": "Adds an armory system that controls equipment access by role, rank, or flag restrictions. It includes custom UI, entity support, character checks, and admin-aware behavior for controlled law-enforcement loadouts."
   },
   {
     "id": "mafiarp_police_system",
@@ -568,8 +568,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Police CAD/Interaction",
-    "shortDescription": "Police CAD and interaction tools for law-enforcement roleplay workflows.",
-    "longDescription": "Police CAD and interaction tools for law-enforcement roleplay workflows. Includes custom client UI, client/server networking, chat or console commands, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Police CAD and interaction tools for law-enforcement workflows.",
+    "longDescription": "Adds a larger police interaction suite, including CAD-style UI, networking, commands, persistence, custom entities, and framework hooks. It supports law-enforcement roleplay with structured player lookups, interactions, records, or related police workflows."
   },
   {
     "id": "mafiarp_property_system",
@@ -581,8 +581,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Properties System",
-    "shortDescription": "A property ownership and management system for roleplay locations.",
-    "longDescription": "A property ownership and management system for roleplay locations. Includes custom client UI, client/server networking, configurable settings, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Property ownership and management for roleplay locations.",
+    "longDescription": "Adds property ownership and management tools backed by custom UI, networking, configuration, persistence, and entity support. It lets locations behave like ownable or manageable assets instead of static map spaces."
   },
   {
     "id": "mafiarp_radio",
@@ -594,8 +594,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Telecommunications",
-    "shortDescription": "Phones, pagers, payphones, and radio-style communication utilities.",
-    "longDescription": "Phones, pagers, payphones, and radio-style communication utilities. Includes item definitions for a complete ready-to-install feature package."
+    "shortDescription": "Phones, pagers, payphones, and communication item support.",
+    "longDescription": "Adds telecommunications items and utilities such as phones, pagers, payphones, or radio-style communication tools. The plugin expands roleplay communication beyond ordinary chat by providing item-backed communication features."
   },
   {
     "id": "modern_hud",
@@ -607,8 +607,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "LifeRP HUD",
-    "shortDescription": "A custom LifeRP-style HUD for core player status and screen feedback.",
-    "longDescription": "A custom LifeRP-style HUD for core player status and screen feedback. Includes custom client UI, chat or console commands, custom entities, character data, and inventory integration for a complete ready-to-install feature package."
+    "shortDescription": "A custom status HUD for core player feedback.",
+    "longDescription": "Adds a custom LifeRP-style HUD for player status and screen feedback. The code includes client UI, commands, entity hooks, character data, and inventory integration to present important information in a more polished way."
   },
   {
     "id": "pkactive",
@@ -619,9 +619,9 @@
     "foundIn": "MafiaRP / mafia_roleplay / pkactive",
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "PK Plugin",
-    "shortDescription": "A permakill status helper for tracking and enforcing PK-related states.",
-    "longDescription": "A permakill status helper for tracking and enforcing PK-related states. Includes chat or console commands, character data, and admin controls for a complete ready-to-install feature package."
+    "publicName": "Permakill Status",
+    "shortDescription": "A helper for tracking and enforcing active permakill states.",
+    "longDescription": "Adds a lightweight permakill status workflow with commands, character data, and admin controls. It helps staff track when characters are under PK-related conditions without relying entirely on external notes."
   },
   {
     "id": "prp_ui",
@@ -633,8 +633,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "User Interface",
-    "shortDescription": "A player-facing interface layer for polished menus and everyday interactions.",
-    "longDescription": "A player-facing interface layer for polished menus and everyday interactions. Includes custom client UI, and client/server networking for a complete ready-to-install feature package."
+    "shortDescription": "A player-facing UI layer for polished menus and interactions.",
+    "longDescription": "Adds a custom player-facing interface layer with client UI and networked behavior. It is designed to improve common menu and interaction surfaces so players encounter a more cohesive interface experience."
   },
   {
     "id": "realistic_bank",
@@ -646,8 +646,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Realistic Bank",
-    "shortDescription": "A banking system with accounts, transactions, and player-facing finance UI.",
-    "longDescription": "A banking system with accounts, transactions, and player-facing finance UI. Includes custom client UI, client/server networking, configurable settings, persistent data, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "Bank accounts, transactions, and finance UI for roleplay economies.",
+    "longDescription": "Adds a banking system with custom UI, networking, configuration, persistent data, and custom entities. It supports account-style finance interactions and player-facing money management for economy-driven roleplay."
   },
   {
     "id": "sh_auto_staff_char",
@@ -659,8 +659,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Auto Staff Character",
-    "shortDescription": "Automatic staff-character creation and equipment for administrative ranks.",
-    "longDescription": "Automatically creates and equips a staff character for admin ranks using SAM. Includes client/server networking, custom entities, framework hooks, character data, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "Automatic staff character creation and equipment for admin ranks.",
+    "longDescription": "Automatically creates and equips staff characters for eligible admin ranks, using rank checks and character hooks. It reduces staff setup time and keeps administrative characters consistent across sessions."
   },
   {
     "id": "sh_civic_casino_ownership",
@@ -672,8 +672,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Casino Ownership System",
-    "shortDescription": "Casino ownership areas with house-profit routing and ownership logic.",
-    "longDescription": "Allows multiple casino areas, where characters can be assigned as owners, with house profits going to the bank of each respective area. Includes custom client UI, client/server networking, chat or console commands, persistent data, and framework hooks for a complete ready-to-install feature package."
+    "shortDescription": "Casino ownership areas with house-profit routing.",
+    "longDescription": "Adds ownership logic for multiple casino areas, allowing characters to be assigned as owners and receive house profits through banking routes. It includes UI, networking, commands, persistence, and framework hooks for managing ownership and payouts."
   },
   {
     "id": "sh_rcon_warrants",
@@ -685,8 +685,8 @@
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Discord Warrant RCON",
-    "shortDescription": "Discord/RCON-assisted warrants that let external approvals mark players wanted.",
-    "longDescription": "Allows the server console (via RCON) to mark a player wanted through Discord approval. Includes chat or console commands, character data, and admin controls for a complete ready-to-install feature package."
+    "shortDescription": "RCON-assisted warrants for externally approved wanted statuses.",
+    "longDescription": "Lets approved external integrations mark players wanted through server console/RCON commands. It includes command handling, character data, and admin-style safeguards so Discord or approval workflows can feed into in-game law systems."
   },
   {
     "id": "smuggler",
@@ -698,8 +698,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Smugglers",
-    "shortDescription": "NPC smugglers that sell configured goods through an in-world vendor flow.",
-    "longDescription": "NPC smugglers that sell configured goods through an in-world vendor flow. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and persistent data for a complete ready-to-install feature package."
+    "shortDescription": "NPC smugglers that sell configured goods through in-world vendors.",
+    "longDescription": "Adds configurable NPC smugglers with UI, networking, commands, persistence, and settings. The system gives staff a way to create illicit or special vendors that players interact with directly in the world."
   },
   {
     "id": "ui_remove_block_unblock_characters",
@@ -710,9 +710,9 @@
     "foundIn": "MafiaRP / mafia_roleplay / ui_remove_block_unblock_characters",
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
-    "publicName": "Offline Character Remove/Blocks/Unblocks",
-    "shortDescription": "Offline character removal and block/unblock tools for staff administration.",
-    "longDescription": "Allows staff to remove/block/unblock characters which are or not actively loaded on the server. Includes custom client UI, client/server networking, chat or console commands, framework hooks, and character data for a complete ready-to-install feature package."
+    "publicName": "Offline Character Tools",
+    "shortDescription": "Staff tools for removing, blocking, and unblocking offline characters.",
+    "longDescription": "Adds staff-facing tools for removing, blocking, and unblocking characters even when those characters are not actively loaded. It includes UI, networking, commands, framework hooks, and character data support for safer offline administration."
   },
   {
     "id": "sw_tabmenu",
@@ -724,8 +724,8 @@
     "price": "$14.99",
     "notes": "Root gamemode plugin.",
     "publicName": "KOTOR Style Menu",
-    "shortDescription": "A KOTOR-inspired tab menu redesign with broader player information panels.",
-    "longDescription": "A KOTOR-inspired tab menu redesign with broader player information panels. Includes custom client UI, client/server networking, chat or console commands, configurable settings, and custom entities for a complete ready-to-install feature package."
+    "shortDescription": "A KOTOR-inspired tab menu with broader player information panels.",
+    "longDescription": "Reworks the tab menu into a more user-friendly KOTOR-inspired interface. The plugin includes custom UI, networking, commands, configuration, and entity support to present player information and menu actions more cleanly."
   },
   {
     "id": "marketplace",
@@ -737,8 +737,8 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Marketplace",
-    "shortDescription": "A Galactic Trade Network marketplace for listing, buying, and selling resources or items.",
-    "longDescription": "Provides a Galactic Trade Network marketplace built around a dedicated marketplace entity, configurable item blacklists, listing limits, and resource trading. It includes client/server networking, timers, fonts, and resource handling so players can browse and trade through an in-world economy interface."
+    "shortDescription": "A trade-network marketplace for listing, buying, and selling resources or items.",
+    "longDescription": "Provides a marketplace built around a dedicated marketplace entity, configurable item blacklists, listing limits, and resource trading. It includes client/server networking, timers, fonts, and resource handling so players can browse and trade through an in-world economy interface."
   },
   {
     "id": "capturepoint",
@@ -750,7 +750,7 @@
     "price": "$24.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Faction Capture",
-    "shortDescription": "Territory capture points with contested progress, ownership, HUD updates, and faction rewards.",
+    "shortDescription": "Territory capture points with contested progress, ownership, and HUD updates.",
     "longDescription": "Adds capturable territory points with named locations, persistent point data, capture progress, contested-state handling, and nearby HUD networking. The system counts eligible faction players in the capture radius, announces capture attempts, updates ownership, and supports faction reward logic."
   },
   {
@@ -763,7 +763,7 @@
     "price": "$9.99",
     "notes": "Root gamemode plugin.",
     "publicName": "Faction Raid System",
-    "shortDescription": "Faction raid orchestration with commands, cooldowns, assists, HUD updates, and KDR tracking.",
+    "shortDescription": "Faction raid orchestration with commands, cooldowns, assists, and KDR tracking.",
     "longDescription": "Adds faction-versus-faction raid management with high-command raid initiation, assist commands, raid hiding, status checks, global active-raid state, per-faction cooldowns, and persistent raid statistics. It tracks attacker/defender kills, deaths, assisting players, wins, losses, and client HUD updates."
   }
 ]
