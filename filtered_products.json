@@ -6,7 +6,7 @@
     "name": "Bodies",
     "description": "Adds equippable body/armor outfit items and character body model support.",
     "foundIn": "Frontier WWRP / wildwestrp / bodies",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -36,7 +36,7 @@
     "name": "Widgets",
     "description": "Adds a widget/context menu system, including GPS-style widgets.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_context",
-    "price": "$14.99",
+    "price": "$4.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -46,7 +46,7 @@
     "name": "DarkRP compatibility",
     "description": "Adds DarkRP compatibility.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_darkrp_wrapper",
-    "price": "$7.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -56,7 +56,7 @@
     "name": "Horses",
     "description": "Rideable horses with saddlebag storage.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_horses",
-    "price": "$24.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -66,7 +66,7 @@
     "name": "Lanterns",
     "description": "Lanterns with persistent oil storage, burning over time, and refillable with oil bottles.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_lantern",
-    "price": "$14.99",
+    "price": "$4.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -76,7 +76,7 @@
     "name": "Frontier Networks Main Interface",
     "description": "Adds a custom loading/main menu interface for Frontier Networks.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_main_load",
-    "price": "$14.99",
+    "price": "$34.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -96,7 +96,7 @@
     "name": "Helix NPC",
     "description": "Adds configurable interactable NPC entities and NPC dialogue/action support.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_npcs",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -106,7 +106,7 @@
     "name": "Permakill",
     "description": "Adds staff-controlled permakill/permanent death workflow support.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_pks",
-    "price": "$14.99",
+    "price": "$5.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -116,7 +116,7 @@
     "name": "Prison System",
     "description": "Arrest, sentencing and custody.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_prison",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -126,7 +126,7 @@
     "name": "Tobacco System",
     "description": "Adds a tobacco growing system.",
     "foundIn": "Frontier WWRP / wildwestrp / frontier_tobacco",
-    "price": "$19.99",
+    "price": "$14.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -136,7 +136,7 @@
     "name": "Inventory PAC Items",
     "description": "Adds support for PAC data on items based on inventory presence, in addition to equip status.",
     "foundIn": "Frontier WWRP / wildwestrp / inventory_wearables",
-    "price": "$14.99",
+    "price": "$8.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -146,7 +146,7 @@
     "name": "VR Item Pickup",
     "description": "Lets VR players add a grabbed Helix item to their inventory by pressing the pickup trigger.",
     "foundIn": "Frontier WWRP / wildwestrp / sh_vrpickup",
-    "price": "$14.99",
+    "price": "$8.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -156,7 +156,7 @@
     "name": "Helix VR Integration",
     "description": "Seamlessly enables Helix menus and HUDs for VRMod players using VR controller keys and actions.",
     "foundIn": "Frontier WWRP / wildwestrp / vr_compat",
-    "price": "$14.99",
+    "price": "$13.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -166,7 +166,7 @@
     "name": "Custom Circular HUD",
     "description": "A circular health HUD with semicircular stamina (left) and hunger (right) bars and conditional icons for hunger/thirst.",
     "foundIn": "Frontier WWRP / wildwestrp / wwrp_hud",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -176,7 +176,7 @@
     "name": "Book-Based F1 Menu Replacement",
     "description": "Replaces the existing F1 menu with a book-based menu (Based on Cyanide.",
     "foundIn": "Wild West RP / wildwestrp / book_f1",
-    "price": "$14.99",
+    "price": "$19.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -186,7 +186,7 @@
     "name": "Guilds",
     "description": "Adds a custom player-facing interface/menu layer.",
     "foundIn": "Wild West RP / wildwestrp / guilds",
-    "price": "$24.99",
+    "price": "$14.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -196,7 +196,7 @@
     "name": "SW: Galaxies Main Interface",
     "description": "Adds a custom loading/main menu interface for the schema.",
     "foundIn": "Wild West RP / wildwestrp / mainmenu-loading",
-    "price": "$14.99",
+    "price": "$34.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -206,7 +206,7 @@
     "name": "UI (Menu Principal)",
     "description": "Adds a custom character select/load UI for Helix schemas.",
     "foundIn": "Wild West RP / wildwestrp / mainmenu-select-load",
-    "price": "$14.99",
+    "price": "$18.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -216,7 +216,7 @@
     "name": "Hud Elements",
     "description": "Adds a replacement weapon-selection HUD.",
     "foundIn": "Wild West RP / wildwestrp / monolith_wepselect",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -226,7 +226,7 @@
     "name": "Prodigy UI",
     "description": "Adds a full custom Helix UI layer including menus, inventory, scoreboard, settings, storage, business, and notices.",
     "foundIn": "Wild West RP / wildwestrp / wwrp-interface",
-    "price": "$19.99",
+    "price": "$34.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -236,7 +236,7 @@
     "name": "Alcohol Production (Niums)",
     "description": "Adds the ability to brew alcohol in helix.",
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / alcohol_production",
-    "price": "$19.99",
+    "price": "$14.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -246,7 +246,7 @@
     "name": "Role-Based Character Limits",
     "description": "Overrides default character slot limits based on user group.",
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / charlimit",
-    "price": "$24.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -266,7 +266,7 @@
     "name": "Lockpicking",
     "description": "Allows to pick locks with bobby pins.",
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / mafiarp_lockpicking",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -276,7 +276,7 @@
     "name": "Clothing",
     "description": "Clothing.",
     "foundIn": "Frontier WWRP / wildwestrp-helixmain / monolith_clothing",
-    "price": "$14.99",
+    "price": "$5.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -286,7 +286,7 @@
     "name": "Application System",
     "description": "Adds an immersive and realistic IC application system.",
     "foundIn": "MafiaRP / mafia_roleplay / applicationsystem",
-    "price": "$14.99",
+    "price": "$5.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -296,7 +296,7 @@
     "name": "Char Creation",
     "description": "Adds custom character creation flow changes.",
     "foundIn": "MafiaRP / mafia_roleplay / charcreation",
-    "price": "$9.99",
+    "price": "$34.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -306,7 +306,7 @@
     "name": "Commander Faction Menu",
     "description": "Adds a commander/faction-management menu.",
     "foundIn": "MafiaRP / mafia_roleplay / cmd_factionmenu",
-    "price": "$14.99",
+    "price": "$12.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -316,7 +316,7 @@
     "name": "Detective",
     "description": "Adds detective roleplay tools and systems.",
     "foundIn": "MafiaRP / mafia_roleplay / detective",
-    "price": "$7.99",
+    "price": "$19.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -326,7 +326,7 @@
     "name": "Group Manager",
     "description": "Allow players to create their own in-game groups with custom name and roles.",
     "foundIn": "MafiaRP / mafia_roleplay / groupmanager",
-    "price": "$24.99",
+    "price": "$14.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -356,7 +356,7 @@
     "name": "ArcCW Support + Magazine System",
     "description": "Adds arccw support + magazine system functionality for the gamemode.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_arccw_integration",
-    "price": "$9.99",
+    "price": "$5.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -366,7 +366,7 @@
     "name": "Clothing System",
     "description": "Adds modern clothing store UI.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_clothing",
-    "price": "$14.99",
+    "price": "$8.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -376,7 +376,7 @@
     "name": "Cocaine System",
     "description": "Adds cocaine system.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_cocaine",
-    "price": "$24.99",
+    "price": "$15.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -386,7 +386,7 @@
     "name": "MafiaRP Crafting",
     "description": "Adds a better crafting solution to helix.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_crafting",
-    "price": "$24.99",
+    "price": "$15.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -396,7 +396,7 @@
     "name": "Faction Management",
     "description": "Adds faction management functionality for the gamemode.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_faction_management",
-    "price": "$9.99",
+    "price": "$14.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -406,7 +406,7 @@
     "name": "Meth System",
     "description": "Adds meth system.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_meth",
-    "price": "$24.99",
+    "price": "$15.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -426,7 +426,7 @@
     "name": "Police Armory",
     "description": "Provides a role-based armory with rank/flag restrictions.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_police_armory",
-    "price": "$24.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -436,7 +436,7 @@
     "name": "Police CAD/Interaction",
     "description": "Adds police cad/interaction functionality for the gamemode.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_police_system",
-    "price": "$24.99",
+    "price": "$39.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -446,7 +446,7 @@
     "name": "Properties System",
     "description": "Adds properties system functionality for the gamemode.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_property_system",
-    "price": "$24.99",
+    "price": "$19.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -456,7 +456,7 @@
     "name": "Telecommunications",
     "description": "Adds phones, pagers, payphones and more.",
     "foundIn": "MafiaRP / mafia_roleplay / mafiarp_radio",
-    "price": "$24.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -466,7 +466,7 @@
     "name": "LifeRP HUD",
     "description": "Adds a custom LifeRP-style HUD.",
     "foundIn": "MafiaRP / mafia_roleplay / modern_hud",
-    "price": "$14.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -476,7 +476,7 @@
     "name": "PK Plugin",
     "description": "pretty self explanatory.",
     "foundIn": "MafiaRP / mafia_roleplay / pkactive",
-    "price": "$9.99",
+    "price": "$8.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -486,7 +486,7 @@
     "name": "User Interface",
     "description": "Adds a custom player-facing interface/menu layer.",
     "foundIn": "MafiaRP / mafia_roleplay / prp_ui",
-    "price": "$14.99",
+    "price": "$34.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -496,7 +496,7 @@
     "name": "Realistic Bank",
     "description": "Adds realistic bank functionality for the gamemode.",
     "foundIn": "MafiaRP / mafia_roleplay / realistic_bank",
-    "price": "$24.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -506,7 +506,7 @@
     "name": "Auto Staff Character",
     "description": "Automatically creates and equips a staff character for admin ranks using SAM.",
     "foundIn": "MafiaRP / mafia_roleplay / sh_auto_staff_char",
-    "price": "$14.99",
+    "price": "$2.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -516,7 +516,7 @@
     "name": "Casino Ownership System",
     "description": "Adds casino ownership areas and house profit routing.",
     "foundIn": "MafiaRP / mafia_roleplay / sh_civic_casino_ownership",
-    "price": "$24.99",
+    "price": "$14.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -546,7 +546,7 @@
     "name": "Offline Character Remove/Blocks/Unblocks",
     "description": "Allows staff to remove/block/unblock characters which are or not actively loaded on the server.",
     "foundIn": "MafiaRP / mafia_roleplay / ui_remove_block_unblock_characters",
-    "price": "$14.99",
+    "price": "$8.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -556,7 +556,7 @@
     "name": "KOTOR Style IX Menu",
     "description": "Reworks the tab menu to be more user friendly.",
     "foundIn": "gCity / cityrp / sw_tabmenu",
-    "price": "$14.99",
+    "price": "$34.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -566,7 +566,7 @@
     "name": "Marketplace",
     "description": "Adds a marketplace entity and resource trading flow.",
     "foundIn": "SW Galaxies / swg / marketplace",
-    "price": "$24.99",
+    "price": "$15.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -576,7 +576,7 @@
     "name": "Faction Capture",
     "description": "Adds capturable territory/control point gameplay.",
     "foundIn": "SW Galaxies / swg / capturepoint",
-    "price": "$24.99",
+    "price": "$9.99",
     "notes": "Root gamemode plugin."
   },
   {
@@ -586,7 +586,7 @@
     "name": "Faction Raid System",
     "description": "Faction vs Faction PVP raid system with KDR tracking.",
     "foundIn": "SW Galaxies / swg / raid",
-    "price": "$9.99",
+    "price": "$13.99",
     "notes": "Root gamemode plugin."
   }
 ]
